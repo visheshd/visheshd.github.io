@@ -1,9 +1,8 @@
 # Site wide configuration
 
-title:            Vishesh Duggar
-locale:           en_US
-url:              
-
+title:  Vishesh Duggar
+url: http://vishesh.space
+locale: en_US
 
 # Jekyll configuration
 
@@ -30,8 +29,8 @@ owner:
   avatar: bio-photo.jpg
   bio: "Startup tech guy with a keen interest in product development and usability. Love movies, music and traveling."
   email: 
-  disqus-shortname: 
-  twitter: #username
+  disqus-shortname: visheshd
+  twitter: #startupduke
   facebook: #username
   google:
     plus: #username
@@ -42,7 +41,7 @@ owner:
   bing-verify: 
   github: #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: #vishesh.duggar
   xing: #username
   instagram: #username
   lastfm: #username
