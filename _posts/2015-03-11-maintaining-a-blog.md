@@ -10,7 +10,7 @@ It is challenging for sure. Okay, so I've been procrastinating about creating a 
 
 It definitely will take a lot of descipline and work but needless to say it is doable. Here is an article that points to key things you can do to [write even when you have little time](http://michaelhyatt.com/no-time-to-blog.html). But make sure you write about things you are passionate about and excite you. That really is the secret sauce for getting people to read it.
 
-##Why blogging is important specially for startups?
+## Why blogging is important specially for startups?
 I think people want to know who you are, who they are actually buying from. Service industry is fiercely competitive. Look at us, [we](http://causecode.com) are product development company with a gazillion companies offering similar services but there are [things](http://causecode.com) that make us unique and there might be people who really would like to work with a bunch like us. How would they know if we are that bunch if we don't put ourselves out there :).
 
 ### 1. People care about the "why" you are around
