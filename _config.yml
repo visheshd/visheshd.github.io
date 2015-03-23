@@ -1,7 +1,8 @@
 # Site wide configuration
 
 title:  Vishesh Duggar
-url: http://vishesh.space
+url: 
+website: http://vishesh.space
 locale: en_US
 
 # Jekyll configuration
