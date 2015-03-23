@@ -10,3 +10,6 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+# Vishesh Duggar
+Entrepreneur @CauseCode Technologies, Sr Engineer @Curious, CTO @billaway and @AltrUHelp
+
