@@ -66,7 +66,7 @@ layered nicely and do you think different components are loosely coupled. Things
 consistent approach by all developers make it easier to make changes, fix things and add more people to the
 mix and all these things get impacted by technology stack you pick. 
 
-Picking a good stack is very but worrying about supporting millions of users from the get go isn't going to help you, 
+Picking a good stack is very important but worrying about supporting millions of users from the get go isn't going to help you, 
 because guess what it takes a lot of time and resources to do that. The faster you can validate if you are solving a 
 pain or building a "nice to have" product the better. Get your product out there and learn from user feedback and iterate. 
 There is nothing wrong in improving the performance gradually as your user base grows. Behind the scenes you could change 
