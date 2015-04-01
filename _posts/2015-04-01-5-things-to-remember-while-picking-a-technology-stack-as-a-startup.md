@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5 things to remember while picking the technology stack as a startup"
+title: "5 things to remember while picking a technology stack as a startup"
 excerpt: "Picking the right technology stack can make or break your startup endeavor. Apart from this impacting your 
 	development milestones, it could very well make a difference in hiring and scaling up."
 tags: [cto,stack,hiring]
