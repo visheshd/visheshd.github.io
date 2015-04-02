@@ -23,16 +23,16 @@ app vs a hybrid app. Are you building something that is going to be dealing with
 These are just some of the basic things you head into but as you think about them make a list of user goals you are trying
 to achieve and your target user profile. 
 
->For example:
->
->1. Like what kind of user projections are you realistically looking at to support for the first few versions
->2. Is your primary user base going to be likely an iPhone user
->3. What kind of age group they would fall into. This could again give insights into the devices and browsers to
+For example:
+
+1. Like what kind of user projections are you realistically looking at to support for the first few versions
+2. Is your primary user base going to be likely an iPhone user
+3. What kind of age group they would fall into. This could again give insights into the devices and browsers to
 	expect.
->4. What kind of data are you dealing with?
->5. By when do you intend to get it live?
+4. What kind of data are you dealing with?
+5. By when do you intend to get it live?
 	
-Startups these days share so much about their stack; you could even look at what others have used to solve a similar
+>Startups these days share so much about their stack; you could even look at what others have used to solve a similar
 and look at options at places like [stackshare.io](http://stackshare.io/trending/tools)
 
 ## 2. A decent sized developer community 
