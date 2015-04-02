@@ -7,12 +7,12 @@ tags: [cto,stack,hiring]
 comments: true
 ---
 
-It is a dauting task to start to build a software product that is going to be the next big thing. One of the challenges
-that you might face very early is to pick a technology stack before you begin. A lot of times it boils down to the tech
+It is a daunting task to start to build a software product that is going to be the next big thing. One of the challenges
+that you might face very early on is to pick a technology stack before you begin. A lot of times it boils down to the tech
 founder(s) expertise with a particular stack. But most of the times you are better off looking at it objectively.    
 
-As a tech founder sometimes you want to work on cutting edge stuff that is still in its alpha or beta release but you are
-simply blown away from some of the advantages it listed even though some of them might be theoritical. It's great to be 
+As a tech founder sometimes you want to work on cutting edge stuff that is still in its alpha or beta release. Primarily 
+you are simply blown away from some of the advantages it listed even though some of them might be theoretical. It's great to be 
 an early adopter but probably experimenting with a technology on a project that you want to get out the door in a month 
 or two is not a good idea. It might still work but before you take that leap do consider the following things.
 
@@ -51,7 +51,7 @@ much more important then using the latest and greatest tech. Being an early adop
 version you might be doing on the side to explore things. Relying on it while you are building an MVP is probably not a good idea.
 
 ## 4. Learning curve
-The learning curve utlimately has to be manageable. As engineers we are always picking up new things, but you don't want
+The learning curve ultimately has to be manageable. As engineers we are always picking up new things, but you don't want
 to spend all your time learning when you could be actually moving towards the launch. Before looking at options, it's 
 important to look at the available tech skills.
 
