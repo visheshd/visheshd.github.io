@@ -24,7 +24,6 @@ These are just some of the basic things you head into but as you think about the
 to achieve and your target user profile. 
 
 For example:
-
 1. Like what kind of user projections are you realistically looking at to support for the first few versions
 2. Is your primary user base going to be likely an iPhone user
 3. What kind of age group they would fall into. This could again give insights into the devices and browsers to
