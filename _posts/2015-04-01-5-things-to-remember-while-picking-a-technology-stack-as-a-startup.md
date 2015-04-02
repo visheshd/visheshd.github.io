@@ -33,7 +33,7 @@ For example:
 5. By when do you intend to get it live?
 	
 >Startups these days share so much about their stack; you could even look at what others have used to solve a similar
-problem and look at options at places like [stackshare.io](http://stackshare.io/trending/tools)
+problem and look for options at places like [stackshare.io](http://stackshare.io/trending/tools)
 
 ## 2. A decent sized developer community 
 You want to work on a stack that you are either very familiar with or that has a decent sized development community. More 
