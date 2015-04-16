@@ -11,4 +11,5 @@ image:
 ---
 
 # Vishesh Duggar
-Entrepreneur @CauseCode Technologies, Helping startups like @Curious, @billaway and more 
+Entrepreneur [@CauseCode Technologies](http://causecode.com), Helping startups like [@Curious](http://dev.wearecurio.us/home/index), 
+[@mybillaway](http://mybillaway.com) and more.
