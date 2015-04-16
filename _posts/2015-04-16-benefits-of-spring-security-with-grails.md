@@ -31,7 +31,6 @@ All out of the box!
 You can [configure request mappings](http://grails-plugins.github.io/grails-spring-security-core/guide/requestMappings.html)
 to secure URLs
 
-```
 	grails.plugin.springsecurity.controllerAnnotations.staticRules = [
 		'/':               ['permitAll'],
 		'/index':          ['permitAll'],
@@ -42,9 +41,8 @@ to secure URLs
 		'/**/images/**':   ['permitAll'],
 		'/**/favicon.ico': ['permitAll']
 	]
-```	
 
-### Annotate a endpoint directly
+### Annotate an endpoint directly
 Simply adding annotation to a controller action like
 
 	@Secured(['ROLE_ADMIN'])
