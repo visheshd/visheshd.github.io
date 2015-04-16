@@ -19,7 +19,6 @@ making it an ideal starting place for both SQL and NoSQL databases.
 
 ## Bulletproof your business logic with DRY access control
 There are some neat annotations available that will do the pre and post access checks on your service methods:
-
 <ul class="star">
 <li><a href="http://docs.spring.io/spring-security/site/docs/3.2.x/apidocs/org/springframework/security/access/prepost/PreAuthorize.html" target="blank">@PreAuthorize</a></li>
 <li><a href="http://docs.spring.io/spring-security/site/docs/3.2.x/apidocs/org/springframework/security/access/prepost/PreFilter.html" target="blank">@PreFilter</a></li>
