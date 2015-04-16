@@ -11,5 +11,4 @@ image:
 ---
 
 # Vishesh Duggar
-Entrepreneur @CauseCode Technologies, Sr Engineer @Curious, CTO @billaway and @AltrUHelp
-
+Entrepreneur @CauseCode Technologies, Helping startups like @Curious, @billaway and more 
