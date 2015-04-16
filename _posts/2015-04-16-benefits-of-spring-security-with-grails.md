@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Benefits of using Spring Security With Grails"
+title: "Benefits Of Using Spring Security With Grails"
 excerpt: "There are some obvious benefits to writing custom code vs using a plugin. When using a plugin you get a lot of things
 off the shelf rather than writing it your self. But using something as mature as Spring Security has its unique advantages."
 tags: [spring security, grails, plugins]
