@@ -6,7 +6,6 @@ tags: [passion, coding, rockstar]
 comments: true
 ---
 
-# What defines a rockstar coder?
 Coders have this power to work on complex problems, simplify things and in many cases, cut out the mundane. 
 A rockstar coder is a programmer who is very aware of his/her abilities to do this and uses it to constantly achieve the same.
 
