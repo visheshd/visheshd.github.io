@@ -9,7 +9,12 @@ comments: true
 Coders have this power to work on complex problems, simplify things and in many cases, cut out the mundane. 
 A rockstar coder is a programmer who is very aware of his/her abilities to do this and uses it to constantly achieve the same.
 
-I have worked with a lot of developers in the past and there are a few common traits I come across most rockstar coders.
+I have worked with a lot of developers in the past and there are a few common traits I come across in most rockstar coders.
+
+<figure>
+	<img src="https://farm8.staticflickr.com/7555/15856341997_1902a0f16b_k_d.jpg">
+	<figcaption><a href="https://www.flickr.com/people/aigle_dore/" title="Picture by Moyan Brenn on Flickr">Picture by Moyan Brenn on Flickr</a>.</figcaption>
+</figure>
 
 # What do these rockstars do different?
 
