@@ -24,8 +24,8 @@ a code snippet, a language or new library. Give them a new technology stack to e
 research they found online, you would get back a git repositories with some basic use cases tested out and more.
 
 ## 2. Enjoy social coding and give back to the community
-They don't sweat before forking an open source repository on GitHub or where to make tweaks and testing it out. Report bugs
-they discover in an internal or public repository with steps to reproduce them. Answer queries of other developers from
+They don't sweat before forking an open source repository on Github; to make changes and testing it out. Report bugs
+they discover in an internal or public repository with steps to reproduce them. Answer queries by other developers from
 time to time at various tech community outlets like stackoverflow, slack or irc.
 
 ## 3. Problem solvers and investigators
