@@ -31,11 +31,11 @@ So we slate it to go out the day after. One less thing for them to deal with
 and/or remember. We could tweak the subject from "XXXfone June bill due on 07/07/2015" to "Didn't want to bother you on 
 your birthday: June bill XXfone"
 
-The body could be something:
+The text could be something like:
 	
 	Hi Vishesh,
 
-	Belated Happy Birthday! We didn't really want to bother you on your birthday 
+	Belated Happy Birthday! We didn't want to bother you on your birthday 
 	but your invoice for June is ready.
 
 	Just so you have an easy start after your birthday we've extended the due date by
@@ -45,10 +45,11 @@ The body could be something:
 	Team XXfone
 
 Now, this is not a zero cost gesture. You have to count in the development time that would be needed to bake this in and
-the interest that it would cost the company as it accumulates over millions of accounts. But it is certainly is low enough
-and close to nothing compared to the user experience that the user will have. No bill from you to look at on a birthday!
-And the fact that you cared to that extent!
+the interest that it would cost the company as it accumulates over millions of accounts. But it certainly is low enough 
+and close to nothing compared to the user experience that the user will have. No bill from you to look at on a birthday! 
+And the fact that you cared to that extent! Would love to get few more suggestions on what could be done that is close 
+to "no cost" but could make the user's day in similar scenarios.
 
 This actually hinges into another subject, how to best use personal info to the benefit of the user without creeping the
 hell out of them. Also, how much information is at minimum necessary to seek out for a user so you can best serve them?
-We will look at these questions in the upcoming posts.
+Will look at these questions in the upcoming posts.
