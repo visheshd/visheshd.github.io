@@ -50,6 +50,7 @@ and close to nothing compared to the user experience that the user will have. No
 And the fact that you cared to that extent! Would love to get few more suggestions on what could be done that is close 
 to "no cost" but could make the user's day in similar scenarios.
 
-This actually hinges into another subject, how to best use personal info to the benefit of the user without creeping the
-hell out of them. Also, how much information is at minimum necessary to seek out for a user so you can best serve them?
-Will look at these questions in the upcoming posts.
+If you don't get this, talk to your spouse about how little things can go a long way ;). This actually hinges into 
+another subject, how to best use personal info to the benefit of the user without creeping the hell out of them. 
+Also, how much information is at minimum necessary to seek out for a user so you can best serve them? Will look at 
+these questions in the upcoming posts.
