@@ -23,7 +23,7 @@ Find out if any of your connections have recently hired a CTO. Seek their advice
 
 You could also search for CTO's that are connected to you at 2nd and 3rd degree. Reach out to them or get introduced to check if they are looking for something new.
 
-##Tech events and hackathons
+## Tech events and hackathons
 Attend tech events and hackathons where you would likely be meeting with people with the needed background. But don't try and recruit one there. Go there to generate some word of mouth about your startup. Checkout what the other developers are doing and if you find someone interesting follow up with them after the event to explore things further.
 
 Remember developers do know these days that hackathons have become this hunting ground for recruiters but most of them go to build prototypes or learn a new things about the technologies they want to use or already use.
