@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Find The Right CTO co-founder?"
+title: "How to Find The Right CTO co-founder"
 excerpt: "You have this amazing idea and perhaps even are the subject matter expert. But you need a tech co-founder."
 tags: [cto, find a cto, chief technology officer]
 comments: true
