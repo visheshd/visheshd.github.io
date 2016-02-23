@@ -17,9 +17,9 @@ them:
 
     1. You are solving a problem that you are passionate about
     2. Future cashflows
-    3. Progress
+    3. Progress/Traction
 
-In this post lets focus on showing progress without a product or a CTO.
+In this post lets focus on traction without a product or a CTO.
 
 ## Online presence
 
@@ -58,12 +58,11 @@ Instead of doing an exhaustive business plan, you could opt for a <a href="https
 Lean Canvas</a> by Ash Maurya. This would be more than enough to show where things are headed.
 
 ## TL;DR
-```
-Startups operate under conditions of extreme uncertainty. -- Eric Ries
-```
 
-Help people become confident about the idea and your abilities to execute it. It is extremely hard to find the person 
-who are going help you realize/build this vision of yours with the same passion as you. Make your search easier by making it inbound.
+> Startups operate under conditions of extreme uncertainty. -- Eric Ries <br>
+>    To demonstrate traction; have an online presence, build a team and create a business plan. Help people become confident 
+>    about the idea and your abilities to execute it. It is extremely hard to find the person who are going to help you 
+>    realize/build this vision of yours with the same passion as you. Make your search easier by making it inbound.
+
 
 Please share suggestions you feel are quick wins to show progress/traction in comments. Good luck with your startup!
-
