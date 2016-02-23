@@ -1,8 +1,7 @@
 ---
 layout: post
 title: How to show progress without a CTO or a Product as a startup?
-excerpt: "Help people become confident about the idea and your abilities to execute it. It is extremely hard to find the person 
-who is going help you realize/build this vision of yours with the same passion as you."
+excerpt: "Demonstrating progress is vital for a startup, for a host of reasons. The more traction you get, the easier things become!"
 type: post
 published: true
 comments: true
@@ -12,8 +11,8 @@ comments: true
 	<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Roue_primitive.png">
 </figure>
 
-One needs momentum on their side to get a startup over the hump. And the sooner you start on it the better. As with anything
-the first step is always the hardest. Recruiting other team members and investors becomes much easier if you can show
+Demonstrating progress is vital for a startup, for a host of reasons. The more traction you get, the easier things become! 
+As with anything the first step is always the hardest. Recruiting other team members and investors becomes much easier if you can show
 them:
 
     1. You are solving a problem that you are passionate about
