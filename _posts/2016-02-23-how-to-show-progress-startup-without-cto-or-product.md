@@ -20,12 +20,15 @@ them:
     2. Future cashflows
     3. Progress
 
-In this post we are going to focus on showing progress without a product or a CTO.
+In this post lets focus on showing progress without a product or a CTO.
 
 ## Online presence
-After you meet potential candidates, one of the first things they would do is look your startup up online. This could 
-make a huge difference in attracting a new CTO or team member. If you've zeroed in on a good name, get a domain and may be 
-a simple logo done. You can easily create a landing page on that using host of services out there.
+
+After you meet potential co-founders or recruits, as soon as you leave the room; first things they would do is look your up online. 
+Having an online presence this could make a huge difference.
+
+If you've zeroed in on a good name, get a domain and may be a simple logo done. You can easily create a landing page on 
+that using host of services out there. 
 
 Start a blog on Medium or Wordpress. Speaking about the industry, the idea and other things related to your startup will
 reaffirm your passion to others looking to join you. Similarly creating accounts on Twitter, Facebook and other specific
