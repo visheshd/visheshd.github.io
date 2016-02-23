@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to show progress without a CTO or a Product as a startup?
-status: draft
+excerpt: "Help people become confident about the idea and your abilities to execute it. It is extremely hard to find the person 
+who is going help you realize/build this vision of yours with the same passion as you."
 type: post
 published: true
 comments: true
@@ -57,6 +58,7 @@ Lean Canvas</a> by Ash Maurya. This would be more than enough to show where thin
 ```
 Startups operate under conditions of extreme uncertainty. -- Eric Ries
 ```
+
 Help people become confident about the idea and your abilities to execute it. It is extremely hard to find the person 
 who is going help you realize/build this vision of yours with the same passion as you. Make your search easier by making it inbound.
 
