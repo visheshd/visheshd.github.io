@@ -24,8 +24,8 @@ In this post lets focus on showing progress without a product or a CTO.
 
 ## Online presence
 
-After you meet potential co-founders or recruits, as soon as you leave the room; first things they would do is look your up online. 
-Having an online presence this could make a huge difference.
+After you meet potential co-founders or recruits, as soon as you leave the room; first thing they would do is look you up online. 
+Having an online presence for your startup could make a huge difference.
 
 If you've zeroed in on a good name, get a domain and may be a simple logo done. You can easily create a landing page on 
 that using host of services out there. 
@@ -35,7 +35,7 @@ reaffirm your passion to others looking to join you. Similarly creating accounts
 social media that would help you reach your target audience.
 
 ## Get Customers
-You don't necessarily need to have an actual product; to sell it in many cases. Try and find out if you can do that. Creating 
+You don't necessarily need to have an actual product; to sell it, in many cases. Try and find out if you can do that. Creating 
 a <a href="" title="Concierge MVP" target="_blank">Concierge MVP</a> is a great way to validate your idea with minimum investments. For 
 example, if you were to do a platform where people could find curated carpenters, plumbers and electricians. You could simply 
 advertise with a phone number and a pricing in a neighborhood. Have a few curated contractors ready to take orders 
@@ -58,13 +58,13 @@ for the business worked out on paper makes a much stronger case for why people s
 Instead of doing an exhaustive business plan, you could opt for a <a href="https://www.linkedin.com/pulse/why-lean-canvas-vs-business-model-ash-maurya" title="Lean Canvas">
 Lean Canvas</a> by Ash Maurya. This would be more than enough to show where things are headed.
 
-## TLDR;
+## TL;DR
 ```
 Startups operate under conditions of extreme uncertainty. -- Eric Ries
 ```
 
 Help people become confident about the idea and your abilities to execute it. It is extremely hard to find the person 
-who is going help you realize/build this vision of yours with the same passion as you. Make your search easier by making it inbound.
+who are going help you realize/build this vision of yours with the same passion as you. Make your search easier by making it inbound.
 
 Please share suggestions you feel are quick wins to show progress/traction in comments. Good luck with your startup!
 
