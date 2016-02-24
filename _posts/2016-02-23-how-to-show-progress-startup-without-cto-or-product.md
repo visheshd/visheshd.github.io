@@ -4,6 +4,7 @@ title: How to show progress without a CTO or a Product as a startup?
 excerpt: "Demonstrating progress is vital for a startup, for a host of reasons. The more traction you get, the easier things become!"
 type: post
 published: true
+tags: [traction, progress, startup, cto, chief technology officer]
 comments: true
 ---
 
