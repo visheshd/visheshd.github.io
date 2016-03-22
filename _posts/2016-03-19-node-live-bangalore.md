@@ -15,15 +15,15 @@ comments: true
 The node event at Wipro Bengaluru sucked, is an understatement.  With presenters not showing on time; to some not 
 showing up at all. It was frustrating to travel to node/npm branded event only to find out they were hardly involved. 
 Very surprised they would do that. But in this age where every one wants to be an instant community and a name people 
-should know. Everything is fair game. Including short changing your attendees. Even the free booze by Wipro couldn't help.
+should know, everything is fair game. Including short changing your attendees. Even the free booze by Wipro couldn't help.
 
 The consolation was the bits of new information that I did get to learn.
 
-##npm and the Node Foundation is doing a ton of work
+## npm and the Node Foundation are doing a ton of work
 
 They are doing a lot of work in promoting npm and node. Checkout the presentation by [Ashley Williams](http://ashleygwilliams.github.io/node-live/#1).
 
-##npm goodies that I never used
+## npm goodies that I never used
 
 ```
 npm init --yes == Assumes default
