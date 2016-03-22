@@ -13,7 +13,7 @@ comments: true
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2000px-Npm-logo.svg.png">
 </figure>
 The node event at Wipro Bengaluru sucked, is an understatement.  With presenters not showing on time; to some not 
-showing up at all. It was frustrating to travel to node/npm branded event only to find out they were hardly involved. 
+showing up at all. It was frustrating to travel to a node/npm branded event only to find out they were hardly involved. 
 Very surprised they would do that. But in this age where every one wants to be an instant community and a name people 
 should know, everything is fair game. Including short changing your attendees. Even the free booze by Wipro couldn't help.
 
@@ -62,7 +62,7 @@ Support for local and custom npm repository. And yet another framework to explor
 
 
 ## JS closures -- talk
-A fundamental JavaScript topic that elludes most JS devs. It was good refresher
+A fundamental JavaScript topic that alludes most JS developers. It was a good refresher
 
 var x = returnAClosure;
 
