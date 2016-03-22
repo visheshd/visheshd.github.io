@@ -78,5 +78,6 @@ Things that they are playing with that could be worth looking into though are:
 2. Storm 
 3. ZettaJS - IoT
 
+If you were at the event and want to share some feedback, would love to hear your comments.
 
 
