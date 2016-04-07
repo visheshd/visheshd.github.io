@@ -2,8 +2,8 @@
 layout: post
 title: Two finger -- Middle finger 
 excerpt: "Two finger is not ergonomic, specially if you use your middle and ring finger."
-status: draft
 type: post
+tags: [rsi, vim, mouse, ide]
 published: true
 comments: true
 ---
