@@ -3,6 +3,8 @@ layout: post
 title: Are you wasting your coding chops? Walk more, type less and still do more during your work day!
 type: post
 published: true
+excerpt: "As a developer, I never want to spend time doing things that a script or a software can do for me. But if you suffer 
+from RSI the motivation to do this can be far greater."
 comments: true
 tags: [automate, grunt, developer, rockstar]
 ---
@@ -20,6 +22,7 @@ from RSI the motivation to do this can be far greater. For example, I use Dragon
 for most of my blogs, including this one.
 
 ## Things that are tedious:
+
 ### Long commands
 These  can be replaced by aliases,  in your favourite shell.
 
