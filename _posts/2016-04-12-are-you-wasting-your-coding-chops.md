@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are you wasting your coding chops? Walk more, type less and still do more during your work day!
+title: Are you wasting your coding chops? Spend coding time on real problems
 type: post
 published: true
 excerpt: "As a developer, I never want to spend time doing things that a script or a software can do for me. But if you suffer 
@@ -38,7 +38,7 @@ that you can easily revert back.
 You have no shortage of tools that you could pick from depending on your budget: Jenkins, Codeship, Bamboo etc. You could also roll your own!
 
 ### Code Reviews and QA
-There is a huge list of things that you need to do as a developer and development team for the court to be production quality.  Here is a peek into what typically need to look into:
+There is a huge list of things that you need to do as a developer and development team for the code to be production quality.  Here is a peek into what typically need to look into:
 - All test cases pass
 - Feature has been tested  in Chrome, Firefox and Safari and screenshots of the test result are added
 - Each code change was executed
