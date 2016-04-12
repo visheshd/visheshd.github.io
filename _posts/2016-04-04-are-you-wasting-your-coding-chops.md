@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Are you wasting your coding chops? Walk more, type less and still do more during your work day!
-status: draft
 type: post
-published: false
+published: true
 comments: true
 tags: [automate, grunt, developer, rockstar]
 ---
