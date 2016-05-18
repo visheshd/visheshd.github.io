@@ -37,22 +37,18 @@ Community members perhaps need to present tech talks like:
 Introductory material like slides for community members to present at colleges and user groups. These could be Creative Commons licensed.
 
 ## Reddit or similar community
-
 Curated list of great blogs that the community could subscribe to. There are a lot of contributors already making 
 contributions to channels like Reddit and Stackoverflow. But a little more encouragement might help.
 
 ## Education
-
 Tying up with computer education institutes to provide coursework and training. Maybe adding a certification for both 
 student and a tutor to become an OCI certified Grails student/tutors.
 
 ## Plugins
-
 Possibly allowing users to request jumpstarting a defunct plug-in if there are enough requests then seeking someone 
 from the community to revive it. 
 
 ## GR8Conf
-
 The conference might be a great avenue to actually recognize community members and contributors. This might further 
 fuel them to make a bigger impact. 
 
