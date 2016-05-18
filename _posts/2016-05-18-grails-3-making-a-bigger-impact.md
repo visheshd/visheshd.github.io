@@ -52,4 +52,8 @@ from the community to revive it.
 The conference might be a great avenue to actually recognize community members and contributors. This might further 
 fuel them to make a bigger impact. 
 
+If you are looking to contribute towards Grails, click [here](https://grails.org/contribute.html). If you are looking for
+work in Grails or Groovy, reach us at jobs@causecode.com
+
+Would love to hear if you have suggestions to help Grails make a bigger impact as comments.
 
