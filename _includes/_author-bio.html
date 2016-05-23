@@ -12,6 +12,7 @@
 
   <h3 itemprop="name">{{ author.name }}</h3>
   <p>{{ author.bio }}</p>
+	<a href="https://causecode.com" title="Website" class="author-social" target="_blank"><i class="fa fa-fw fa-globe"></i> CauseCode</a>
 	{% if author.linkedin %}<a href="http://linkedin.com/in/{{ author.linkedin }}" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>{% endif %}
   {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
   {% if author.twitter %}<a href="http://twitter.com/{{ author.twitter }}" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
@@ -32,6 +33,6 @@
   {% if author.weibo %}<a href="http://www.weibo.com/{{ author.weibo }}" class="author-social" target="_blank"><i class="fa fa-fw fa-weibo"></i> Weibo</a>{% endif %}
   {% if author.flickr %}<a href="http://www.flickr.com/{{ author.flickr }}" class="author-social" target="_blank"><i class="fa fa-fw fa-flickr"></i> Flickr</a>{% endif %}
   <br/>
-  <h3>Are you looking for web/mobile product development help or a CTO?</h3> 
+  <h3>Are you looking for web/mobile product development help or a CTO?</h3>
 	  <a class='btn btn-lg btn-success' href='mailto:contact@causecode.com?subject=Connect with Vishesh - ref blog'>Connect via Email</a>
 </div>
