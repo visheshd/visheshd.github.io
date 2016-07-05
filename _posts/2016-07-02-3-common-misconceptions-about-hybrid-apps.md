@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What every entrepreneur must know about hybrid apps.
+title: 3 Common Misconceptions About Hybrid Apps
 status: true
 excerpt: "It is a great time to be developing using hybrid app technology especially now. Launch faster, run leaner, grow your 
 development team faster pick hybrid!"
