@@ -24,7 +24,7 @@ Or we can write an app talks to something say "X" and "X" talks to the operating
 For example let's look at how one hybrid technology called Cordova, which is used to write hybrid apps using web
 technologies like HTML, JavaScript and CSS.
 <figure>
-	<img src="../images/native.jpg">
+	<img src="../images/hybrid.jpg">
 </figure>
 
 The application actually makes a call to a component inside the app which in turn talks to the operating system.
