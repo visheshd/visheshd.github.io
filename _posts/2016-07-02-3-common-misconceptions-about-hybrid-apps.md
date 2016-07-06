@@ -10,7 +10,7 @@ comments: true
 ---
 
 <figure>
-	<img src="../images/code-js.jpg">
+	<img src="../images/hybrid-native.jpg">
 </figure>
 
 Hybrid apps interact with your mobile operating systems indirectly. [Read more about, what is a hybrid app?](http://vishesh.space/what-is-a-hybrid-app/)
