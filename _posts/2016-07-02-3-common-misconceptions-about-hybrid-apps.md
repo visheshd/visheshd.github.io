@@ -15,11 +15,12 @@ comments: true
 
 Hybrid apps interact with your mobile operating systems indirectly. [Read more about, what is a hybrid app?](http://vishesh.space/what-is-a-hybrid-app/)
 
-Before you actually pick a route on which kind of app you want for your startup or product. Let's look at what a hybrid 
-app brings to the table.
+Many people just assume native apps are better because of the terminology used. But before you actually pick one over the other 
+ for your startup or product. Let's look at what a hybrid app brings to the table.
 
 Proponents of native apps state the following advantages:
-1. Device specific features like apps GPS camera etc
+
+1. Device specific features like apps GPS, camera etc
 2. Performance
 3. Better user experience
 
@@ -38,12 +39,12 @@ Here are a few key device-specific plug-ins out there:
 Gone are the days where you had to rely on slow CSS and JavaScript animations that were just not good enough,
 with so many JS libraries out there that manipulate the view using what Dom CSS transformations are to achieve 60+ FPS
 
-If you crave for that native kick for certain computations, nobody is stopping you to write parts of your app natively.
-But native animation can no longer be held against hybrid tech.
+If you crave for that native kick for certain computations, you can always write parts of your app natively.
+But native animation speed can no longer be held against hybrid tech.
 
 ### Better User Experience
-Some say people are used to native UI elements. With frameworks like OnsenUI providing component library that look and feel native
-you don't have to worry about the User Experience.
+Some say people are used to native UI elements. With frameworks like [OnsenUI](https://onsen.io) providing component 
+library that look and feel native you don't have to worry about the User Experience.
 
 ## But why is taking the hybrid route better for most organizations?
 
