@@ -9,7 +9,7 @@ comments: true
 ---
 
 <figure>
-	<img src="https://pixabay.com/static/uploads/photo/2012/02/28/10/20/achievement-18134_960_720.jpg">
+	<img src="../images/growth.jpg">
 </figure>
 
 Demonstrating progress is vital for a startup, for a host of reasons. The more traction you get, the easier things become! 
