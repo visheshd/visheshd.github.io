@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Lessons from the Yahoo data breach for startups
-excerpt: "Wishful thinking in the programming practice where a program extracts all complexities. 
+excerpt: "Data breaches are real, they have happened to companies with  dedicated security experts trying to 
+prevent it from happening. Sometime in the future, this could very well happen to you as a startup."
 type: post
 published: true
 comments: true
@@ -20,7 +21,7 @@ Some of the lessons from the latest data breach at Yahoo.
 ## Press releases don't have to be written by robots
 
 A press release should have the right balance of words, taking into account that there has been a 
-loss of privacy for your users. [Yahoo's recent press release](https://investor.yahoo.net/releasedetail.cfm?ReleaseID=990570)! 
+loss of privacy for your users. [Yahoo's recent press release](https://investor.yahoo.net/releasedetail.cfm?ReleaseID=990570) 
 was horrible at conveying any emotion . In fact, they tried to downplay the impact. A press 
 release is not just for the press but for the people to know at large about the news via them. 
 Depending on how you handle a very public situation, you could either lose or gain some customers.
