@@ -2,7 +2,6 @@
 layout: post
 title: Lessons from the Yahoo data breach for startups
 excerpt: "Wishful thinking in the programming practice where a program extracts all complexities. 
-status: true
 type: post
 published: true
 comments: true
