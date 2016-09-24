@@ -21,7 +21,7 @@ Some of the lessons from the latest data breach at Yahoo.
 ## Press releases don't have to be written by robots
 
 A press release should have the right balance of words, taking into account that there has been a 
-loss of privacy for your users. [Yahoo's recent press release](https://investor.yahoo.net/releasedetail.cfm?ReleaseID=990570) 
+loss of privacy for your users. [Yahoo's recent press release](https://investor.yahoo.net/releasedetail.cfm?ReleaseID=990570){:target="_blank"}
 was horrible at conveying any emotion . In fact, they tried to downplay the impact. A press 
 release is not just for the press but for the people to know at large about the news via them. 
 Depending on how you handle a very public situation, you could either lose or gain some customers.
@@ -50,8 +50,7 @@ can focus on the paneer trying to solve.
 
 The user will definitely have some loss of trust once you inform them of the breach. Make sure you are 
 transparent and more importantly, address key issues for the user. For example, Yahoo says, [“we 
-have invalidated on encrypted security questions and answers so they cannot be used to access an account.”](https://help.yahoo.com/kb/account/SLN27925.html)!
-
+have invalidated on encrypted security questions and answers so they cannot be used to access an account”](https://help.yahoo.com/kb/account/SLN27925.html){:target="_blank"}.
 Which is great but they should have addressed the weakness of security questions as an authentication 
 method and provided a timeline to phasing it out completely.
 
