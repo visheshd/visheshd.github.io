@@ -4,6 +4,14 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
+{% if author.avatar contains 'http' %}
+	<img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
+{% else %}
+	<img src="{{ site.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
+{% endif %}
+
+  <h3 itemprop="name">{{ author.name }}</h3>
+  <p>{{ author.bio }}</p>
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -31,16 +39,10 @@
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
-  <h3>Are you looking for web/mobile product development help or a CTO?</h3>
+  <h3>Are you looking for web/mobile development help or a CTO?</h3>
 	  <a class='btn btn-lg btn-success' href='mailto:contact@causecode.com?subject=Connect with Vishesh - ref blog'>Contact</a>
-{% if author.avatar contains 'http' %}
-	<img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
-{% else %}
-	<img src="{{ site.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
-{% endif %}
-
-  <h3 itemprop="name">{{ author.name }}</h3>
-  <p>{{ author.bio }}</p>
+	  <br/>
+	  <br/>
 	<a href="https://causecode.com" title="Website" class="author-social" target="_blank"><i class="fa fa-fw fa-globe"></i> CauseCode</a>
 	{% if author.linkedin %}<a href="http://linkedin.com/in/{{ author.linkedin }}" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>{% endif %}
   {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
