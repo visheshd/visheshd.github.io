@@ -5,7 +5,7 @@ type: post
 published: true
 excerpt: "I started to setup a ReactNative project that we have been working on for a while now on my machine. The generated iOS native code was version controlled but the build was still not functioning on my machine."
 comments: true
-tags: [healthtech, india, healthcare opportunities]
+tags: [reactnative, cocoapods, ios]
 ---
 
 I started to setup a ReactNative project that we have been working on for a while now on my machine. The generated iOS native code was version controlled but the build was still not functioning on my machine.
