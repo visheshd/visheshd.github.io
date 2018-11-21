@@ -7,7 +7,7 @@ tags: [spring security acls, grails, plugins]
 comments: true
 ---
 
-I had recently written about the [benefits of using spring-security-core](http://vishesh.space/benefits-of-spring-security-with-grails/)
+I had recently written about the [benefits of using spring-security-core](https://vishesh.space/benefits-of-spring-security-with-grails/)
 the other plugins that extend its capability are what make it truly valuable. One such use case is managing user permissions.
 
 [Spring Security ACL](http://grails.org/plugin/spring-security-acl) makes it much easier to implement object level permissions

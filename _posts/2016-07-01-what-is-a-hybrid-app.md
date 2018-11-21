@@ -30,4 +30,4 @@ technologies like HTML, JavaScript and CSS.
 The application actually makes a call to a component inside the app which in turn talks to the operating system.
 
 At a high level you might think it makes more sense to write native apps but before making up your mind is read, 
-[3 common misconceptions about hybrid apps?](http://vishesh.space/3-common-misconceptions-about-hybrid-apps/)
+[3 common misconceptions about hybrid apps?](https://vishesh.space/3-common-misconceptions-about-hybrid-apps/)

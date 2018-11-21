@@ -23,7 +23,7 @@ help. But what I really needed was a more efficient way to work. I thought to my
 I had used Vim earlier but never seriously as an IDE 
 ([Integrated Development Environment](https://en.wikipedia.org/wiki/Integrated_development_environment)). 
 Then I discovered there a lot of people using it, but it needed a lot of configuration. [And
-so I configured my version](http://vishesh.space/vim-as-an-ide-with-grails/).
+so I configured my version](https://vishesh.space/vim-as-an-ide-with-grails/).
 
 I was on the Vim as an IDE bandwagon and hate the mouse now. But now I had another problem. Building this perfect Vim recipe was 
 tedious and a lot of work. There were a lot of times when I just missed the IDE. The aha moment when I realized, let me 

@@ -13,7 +13,7 @@ comments: true
 	<img src="../images/hybrid-native.jpg">
 </figure>
 
-Hybrid apps interact with your mobile operating systems indirectly. [Read more about, what is a hybrid app?](http://vishesh.space/what-is-a-hybrid-app/)
+Hybrid apps interact with your mobile operating systems indirectly. [Read more about, what is a hybrid app?](https://vishesh.space/what-is-a-hybrid-app/)
 
 Many people just assume native apps are better because of the terminology used. But before you actually pick one over the other 
  for your startup or product. Let's look at what a hybrid app brings to the table.
