@@ -27,10 +27,3 @@ Does anyone use their calendar as their TODO list?
 [1] https://www.linkedin.com/pulse/13-things-ridiculously-successful-people-do-every-day-bradberry/
 [2] https://en.wikipedia.org/wiki/Zeigarnik_effect
 [3] https://www.aarp.org/health/brain-health/info-2017/mental-focus-smartphone-use.html
-
-
-
-
-
-
-
