@@ -1,0 +1,37 @@
+{
+    "blg": {
+        "prefix": "blg",
+        "body": [
+            "---",
+            "layout: post",
+            "title: $1",
+            "type: post",
+            "published: true",
+            "excerpt: \"$2\"",
+            "comments: true",
+            "tags: [$3]",
+            "---",
+            "",
+            "<figure>",
+            "\t<img src=\"../images/$4\">",
+            "</figure>"
+        ],
+        "description": "Custom Blog Template"
+    },
+    "blg-no-image": {
+        "prefix": "blg",
+        "body": [
+            "---",
+            "layout: post",
+            "title: $1",
+            "type: post",
+            "published: true",
+            "excerpt: \"$2\"",
+            "comments: true",
+            "tags: [$3]",
+            "---",
+            ""
+        ],
+        "description": "Custom Blog Template"
+    }
+}
