@@ -28,11 +28,10 @@ kramdown:
 owner:
   name: Vishesh Duggar
   avatar: bio-photo.jpg
-  bio: "Founder @ CauseCode. Startup tech guy with a keen interest in product development and usability. Interested in working on high impact ideas."
+  bio: "CTO Software @Stealth. Past: Co-Founder @SuperSehat @CauseCode. CTO @altruhelp @billaway @greenferret Startup tech guy with a keen interest in product development and usability. Interested in working on high impact ideas."
   email: 
   disqus-shortname: visheshd
-  twitter: causecode
-  facebook: causecode
+  twitter: vishaysh
   google:
     plus: #username
     analytics: UA-61117280-1 
@@ -40,7 +39,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: causecode
+  github: visheshd
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: experienced-cto
   xing: #username
