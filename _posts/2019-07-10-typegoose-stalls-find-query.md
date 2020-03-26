@@ -41,4 +41,4 @@ export async function getModel<T extends Typegoose>(Clazz: new (...args: any) =>
 }
 ```
 
-Typegoose is a quirky and some of that comes from the limitations of typescript reflection system itself. Hope this was of help.
+Typegoose is quirky and some of that comes from the limitations of typescript reflection system itself. Hope this was of help.
