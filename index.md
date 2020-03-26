@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "Founder @ CauseCode. Sharing my experiences with technology, startups, entrepreneurship and more."
-tags: [Vishesh Duggar, causecode]
+excerpt: "CTO, Software @ Vamstar. Sharing my experiences with technology, startups, entrepreneurship and more."
+tags: [Vishesh Duggar, vishesh, visheshd]
 image:
   feature: home.jpg
 ---
