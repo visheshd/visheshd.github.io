@@ -3,7 +3,7 @@ layout: post
 title: Microsoft can save trees with a single notice
 type: post
 published: true
-excerpt: "Why do companies publish useless information on product?"
+excerpt: "Why do companies publish useless information on the product?"
 comments: true
 tags: ["microsoft", "amazon basics keyboard", "ethical business"]
 ---
