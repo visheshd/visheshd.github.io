@@ -12,7 +12,7 @@ I'm not gonna talk a lot about what the [different types of dependencies](https:
 
 If there is a dependency that is a library that you are using to build another library. For example you are building a new ORM that required mongoose As a dependency. Now if the installing app that is using any of the mongoose API directly then they are going to be installing the mongoose library themselves together with your library which will also bring in the mongoose dependency. Most cases this is not an issue but if npm Is not able to resolve the dependency conflict then you might end up with issues arising from conflicting versions of mongoose.
 
-The fixes Temple in your ORM define mangoes as a peer dependency. But how do you make sure that mongoose actually gets resolved while developing and testing your ORM.
+The fixe os to simply in your ORM define mongoose as a peer dependency. But how do you make sure that mongoose actually gets resolved while developing and testing your ORM.
 
 Exactly pretty straightforward in your package.json 
 
