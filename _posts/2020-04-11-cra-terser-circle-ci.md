@@ -5,10 +5,10 @@ type: post
 published: true
 excerpt: "Overriding webback config using customize-cra"
 comments: true
-tags: ["customize-cra", "terser", "cra"]
+tags: ["customize-cra", "terser", "cra", "minify"]
 ---
 
-So I tried upgrading CRA for an existing app. I wanted to use the latest [React Fast Refresh](https://github.com/facebook/react/issues/16604) to hot reload react while making changes. Everything worked fine locally on the dev machine but the build failed on CircleCI.
+So I tried upgrading CRA for an existing app. I wanted to use the latest [React Fast Refresh](https://github.com/facebook/react/issues/16604) to hot reload react while making changes. Everything worked fine locally on the dev machine but the build failed on CircleCI while minifying.
 
 It turned out to be a resourcing issue and Terser config had to be overridden without ejecting CRA of course.
 
