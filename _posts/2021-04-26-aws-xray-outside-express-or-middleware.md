@@ -8,7 +8,7 @@ comments: true
 tags: ["aws", "aws-xray", "xray", "nodejs"]
 ---
 
-Manual tracing with Xray can be cumbersome and you don't really need it. Here is how you can get it done.
+Manual tracing with Xray can be cumbersome and you don't really need it. Here is how you can setup automatic mode up without a middleware or outside express.
 
 So if you have a dockerized nodejs service running you can change the entrypoint of your service to something like this.
 
