@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Product market fit is as hard as weight loss, okay may be a tat little harder but a lot of similarities.
+title: Product market fit is as hard as weight loss, okay may be a tat little harder. Typical mistakes startups make that you should avoid.
 type: post
 published: true
 excerpt: "Product market fit is as hard as weight loss, okay may be a tat little harder but a lot of similarities. Understanding what it truly means to be in product market fit and avoiding typical mistakes startups make. What is product market fit?"
