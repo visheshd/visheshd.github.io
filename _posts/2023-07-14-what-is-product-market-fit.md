@@ -1,9 +1,9 @@
 ---
 layout: post
-title: What is product market fit?
+title: Product market fit is as hard as weight loss, okay may be a tat little harder but a lot of similarities.
 type: post
 published: true
-excerpt: "Product market fit is as hard as weight loss, okay may be a tat little harder but a lot of similarities. Understanding what it truly means to be in product market fit and avoiding typical mistakes startups make."
+excerpt: "Product market fit is as hard as weight loss, okay may be a tat little harder but a lot of similarities. Understanding what it truly means to be in product market fit and avoiding typical mistakes startups make. What is product market fit?"
 comments: true
 tags: [product market fit]
 ---
