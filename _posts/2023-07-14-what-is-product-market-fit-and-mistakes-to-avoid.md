@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Product market fit is as hard as weight loss, okay may be a tat little harder. Typical mistakes startups make that you should avoid.
+title: Product market fit is as hard as weight loss, okay maybe a tat little harder. Typical mistakes startups make that you should avoid.
 type: post
 published: true
-excerpt: "Product market fit is as hard as weight loss, okay may be a tat little harder but a lot of similarities. Understanding what it truly means to be in product market fit and avoiding typical mistakes startups make. What is product market fit?"
+excerpt: "Product market fit is as hard as weight loss, okay maybe a tat little harder but a lot of similarities. Understanding what it truly means to be in product market fit and avoiding typical mistakes startups make. What is product-market fit?"
 comments: true
 tags: [product market fit]
 ---
@@ -31,20 +31,20 @@ On the other hand, if you have a product that fits the market's needs like a glo
 ## Why is Product-Market Fit harder than weight loss?
 
 ### Defining and chasing the right goal
-Just like you need to know if you are aiming the weight and fat you are aiming to lose. You need to know understand the objective of finding the product market fit. Most founders start with a problme tha is personal to them and start executing. Few start talking to people like that might have the same problem skipping defining the market segment. Who are these people that are likely to have this problem a lot more. Arriving at a group that is large enough is an important step in this journey. If the segment is not large enough you won't be able to scale the business as you won't have enough customers.
+Just like you need to know if you are aiming for the weight and fat you are aiming to lose. You need to know to understand the objective of finding the product market fit. Most founders start with a problem that is personal to them and start executing. Few start talking to people like that might have the same problem skipping defining the market segment. Who are these people that are likely to have this problem a lot more? Arriving at a group that is large enough is an important step in this journey. If the segment is not large enough you won't be able to scale the business as you won't have enough customers.
 
-The end goal remember is to find a problem that a large enough group or segment has. Many times you might start with problem arrive at a group only to find a there is or are different problem they are struggling with. If the problems and the segment are big enough choose those problems instead of the one you started with.
+The end goal remember is to find a problem that a large enough group or segment has. Many times you might start with a problem arrive at a group only to find a there is or are different problem they are struggling with. If the problems and the segment are big enough choose those problems instead of the one you started with.
 
 ### Consistency and patience
 Neither finding a product-market fit nor losing weight happens overnight. They require consistency, patience, and understanding that progress may be slow and not always linear. There will be plateaus, setbacks, and even regressions, but these do not necessarily signal failure.
 
 ### Need for Constant Feedback and Adjustment 
-Just as you tweak your diet or exercise regimen based on your body's response. As a startup you have to iterating your product based on customer feedback. One recommendation I've personally benefited and seen many others do is keep few early adopters really close. Add them to your Slack or Whatsapp. 
+Just as you tweak your diet or exercise regimen based on your body's response. As a startup, you have to iterate your product based on customer feedback. One recommendation I've personally benefited from and seen many others do is to keep a few early adopters really close. Add them to your Slack or Whatsapp. 
 
 ### Utilization of Data and Metrics 
-You can easily observe your weight and tweak your plan. Startups have a really hard time identifying one metric that matters while executing. It is so important to pick the right metrics to measure you are moving towards the right solution. In finding a product-market fit, few obvious ones involve metrics such as user engagement, churn rate, and customer acquisition costs. 
+You can easily observe your weight and tweak your plan. Startups have a really hard time identifying one metric that matters while executing. It is so important to pick the right metrics to measure you are moving toward the right solution. In finding a product-market fit, a few obvious ones involve metrics such as user engagement, churn rate, and customer acquisition costs. 
 
-"Lean Analytics" by Croll and Yoskovitz is a really good read and advocates picking leading metrics and if you can help it pick a ratio. More on metrics in upcoming blog.
+"Lean Analytics" by Croll and Yoskovitz is a really good read and advocates picking leading metrics and if you can help it pick a ratio. More on metrics in an upcoming blog.
 
 ## Typical mistakes startups make to avoid
 
@@ -60,7 +60,7 @@ Here are some typical mistakes people make while trying to find product market f
 
 5. **Thinking they have product-market fit because they have customers**: Having customers does not necessarily mean that a startup has achieved product-market fit. It is important to continue to validate the product and market fit[4].
 
-6. **Skipping market validation**: Skipping market validation is a very bad idea. It is important to develop customer hypotheses, create a long-list of potential customers, and validate the product and market fit before launching[6].
+6. **Skipping market validation**: Skipping market validation is a very bad idea. It is important to develop customer hypotheses, create a long list of potential customers, and validate the product and market fit before launching[6].
 
 7. **Having too large a sample size**: It is possible to have a sample size that is too large. During the early stages of building product-market fit, it is important to focus on a small group of early adopters and validate the product and market fit with them before expanding to a larger audience[3].
 
