@@ -9,11 +9,12 @@ tags: [Oppenheimer, speed, consistency ]
 ---
 
 <figure>
-  <img src="../images/movie-poster-bb.png">
+  <img src="../images/movie-poster-bb.jpg">
 </figure>
 Photo by <a href="https://unsplash.com/@fkaregan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Samuel Regan-Asante</a> on <a href="https://unsplash.com/photos/a-couple-of-people-standing-in-front-of-a-movie-theater-RC4009jYnFk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-Did you hate the movie, Oppenheimer? It quotes Bhagawad Gita and I am probably about to share another one that could be "the life hack".
+
+> Did you hate the movie, Oppenheimer? It quotes Bhagawad Gita and I am probably about to share another one that could be "the life hack".
 
 ## Philosophy Behind The Hack
 
