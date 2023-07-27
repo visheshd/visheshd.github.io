@@ -11,17 +11,12 @@ image:
 ---
 
 # Vishesh Duggar
-Helped architect solutions for companies like Oura Health, Precise.ly, NthJen and more. With close to 15 years in tech; scaling web, mobile and tech products.
+For over 15 years, I've harnessed my tech expertise to architect solutions for companies such as Vamstar, Oura Health, Precise.ly, NthJen, and many others. My passion lies in scaling web, mobile, and tech products to new heights, fueling growth and innovation.
 
-Currently building Vamstar a data science platform in health and pharma.
+A driving force behind my work is a deep understanding of the unique needs of consumers/patients in the US, Europe, and India. I've navigated health/privacy regulations and tackled user experience challenges with finesse.
 
-Deep understanding of the US, European and the Indian consumer/patient needs, health/privacy regulations, and user experience challenges.
+My specialization spans diverse areas including health tracking, telemedicine, wearables, health systems integration, research software for health and pharma, and beyond. I'm your trusted advisor, offering invaluable insights into the ever-evolving landscape of health tech.
 
-Expertise in health tracking, telemedicine, wearables, health systems integration, research software for health and pharma and more.
+My repertoire of technologies is vast, from Node, React, Serverless, AWS Lambda, CloudFormation, Grails, Groovy, Java, Spring, ReactNative, Cordova, and Python, and I keep myself updated. I am still very hands-on and code.
 
-Architected solutions using technologies but not limited to:
-Node, Serverless, AWS Lambda, CloudFormation, Grails, Groovy, Java, Spring, React, ReactNative, Cordova, Python and more.
-
-Specialties: Healthtech, software architecture, product design, web development, mobile development and intelligent systems.
-
-Send me an in-mail if I can help you in any way. 
+Let's transform your tech vision into a captivating narrative, making it super-sellable and shareable. DM for a chat on LinkedIn.
