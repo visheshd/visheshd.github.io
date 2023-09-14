@@ -4,6 +4,11 @@
       "language": "markdown",
       "scheme": "file",
       "pattern": "_posts/2023-07-14-what-is-product-market-fit-and-mistakes-to-avoid.md"
+    },
+    {
+      "language": "markdown",
+      "scheme": "file",
+      "pattern": "_posts/2023-09-22-when-do-you-add-an-fte.md"
     }
   ]
 }
