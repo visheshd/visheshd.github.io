@@ -1,0 +1,53 @@
+<style>
+  .input-group {
+    margin-bottom: 10px;
+  }
+
+  .result {
+    margin-top: 20px;
+  }
+
+</style>
+
+<div class="input-group">
+  <label for="numFTEs">Number of FTEs:</label><br>
+  <input type="number" id="numFTEs" placeholder="Enter number of FTEs" value=2>
+</div>
+
+<div class="input-group">
+  <label for="hourlyRate">Hourly Rate ($):</label><br>
+  <input type="number" id="hourlyRate" placeholder="Enter hourly rate" value=50>
+</div>
+
+<div class="input-group">
+  <label for="numWeeks">Number of Weeks:</label><br>
+  <input type="number" id="numWeeks" placeholder="Enter number of weeks" value=4>
+</div>
+
+<div class="input-group">
+  <label for="additionalResources">Additional Financial Resources ($):</label><br>
+  <input type="number" id="additionalResources" placeholder="Enter additional financial resources" value=1000>
+</div>
+
+<button onclick="calculateResourceCost()">Calculate Cost</button>
+
+<div class="result" id="result"></div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', (event) => {
+    calculateResourceCost();
+  });
+
+  function calculateResourceCost() {
+    var numFTEs = parseFloat(document.getElementById('numFTEs').value);
+    var hourlyRate = parseFloat(document.getElementById('hourlyRate').value);
+    var numWeeks = parseFloat(document.getElementById('numWeeks').value);
+    var additionalResources = parseFloat(document.getElementById('additionalResources').value);
+
+    var totalHours = numFTEs * 40 * numWeeks;
+    var manpowerCost = totalHours * hourlyRate;
+    var totalCost = manpowerCost + additionalResources;
+
+    document.getElementById('result').innerHTML = 'Estimated Cost of Resources Used: $' + totalCost.toFixed(2);
+  }
+</script>
