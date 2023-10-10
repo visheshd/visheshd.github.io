@@ -1,5 +1,69 @@
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <body>
-    Testing calculator
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Strategic Loss Calculator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    .input-group {
+      margin-bottom: 10px;
+    }
+
+    .result {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Strategic Loss Calculator</h1>
+
+  <div class="input-group">
+    <label for="numFTEs">Number of FTEs:</label><br>
+    <input type="number" id="numFTEs" placeholder="Enter number of FTEs" value=0>
+  </div>
+
+  <div class="input-group">
+    <label for="hourlyRate">Hourly Rate ($):</label><br>
+    <input type="number" id="hourlyRate" placeholder="Enter hourly rate" value=0>
+  </div>
+
+  <div class="input-group">
+    <label for="numWeeks">Number of Weeks:</label><br>
+    <input type="number" id="numWeeks" placeholder="Enter number of weeks" value=0>
+  </div>
+
+  <div class="input-group">
+    <label for="additionalResources">Additional Financial Resources ($):</label><br>
+    <input type="number" id="additionalResources" placeholder="Enter additional financial resources" value=0>
+  </div>
+
+  <button onclick="calculateResourceCost()">Calculate Cost</button>
+
+  <div class="result" id="result"></div>
+
+  <script>
+    function calculateResourceCost() {
+      var numFTEs = parseFloat(document.getElementById('numFTEs').value);
+      var hourlyRate = parseFloat(document.getElementById('hourlyRate').value);
+      var numWeeks = parseFloat(document.getElementById('numWeeks').value);
+      var additionalResources = parseFloat(document.getElementById('additionalResources').value);
+
+      var totalHours = numFTEs * 40 * numWeeks;
+      var manpowerCost = totalHours * hourlyRate;
+      var totalCost = manpowerCost + additionalResources;
+
+      document.getElementById('result').innerHTML = 'Estimated Cost of Resources Used: $' + totalCost.toFixed(2);
+    }
+  </script>
+
+</body>
+
 </html>
