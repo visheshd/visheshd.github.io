@@ -31,15 +31,13 @@ Sure, you're excited about all the features your product offers. But loading you
 
 Not all clients wear the same size. A generic onboarding process can make clients feel like they ordered a custom suit, but ended up with an off-the-rack outfit. Make sure your onboarding is as unique as your clients are.
 
-4. Ignoring the Feedback Loop
-
-Feedback isn't just for pointing out flaws. It's the secret sauce for growth. By seeking and acting on client input, you'll show your commitment to adaptability and improvement.
-
-Now that we know what not to do, let's look at some best practices:
+## Now that we know what not to do, let's look at some best practices:
 
 • Make It Personal: You're not just selling a product, you're building a partnership. Add personal touches to make your clients feel valued.
 
 • Use Tech Wisely: Automate tasks, but don't let technology replace genuine human interactions.
+
+• Ignoring the Feedback Loop: Feedback isn't just for pointing out flaws. It's the secret sauce for growth. By seeking and acting on client input, you'll show your commitment to adaptability and improvement.
 
 • Stay Adaptable: The SaaS industry is always changing. Keep updating your onboarding process to keep up with the trends.
 
