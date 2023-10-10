@@ -5,6 +5,7 @@
 
   .result {
     margin-top: 20px;
+    margin-bottom: 20px;
   }
 
 </style>
@@ -29,7 +30,9 @@
   <input type="number" id="additionalResources" placeholder="Enter additional financial resources" value=1000>
 </div>
 
-<button onclick="calculateResourceCost()">Calculate Cost</button>
+<div class="input-group">
+  <button onclick="calculateResourceCost()">Calculate Cost</button>
+</div>
 
 <div class="result" id="result"></div>
 
