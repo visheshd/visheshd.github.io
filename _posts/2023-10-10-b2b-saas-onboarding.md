@@ -28,7 +28,7 @@ Sure, you're excited about all the features your product offers. But loading you
 3. Using the 'One Size Fits All' Approach
 Not all clients wear the same size. A generic onboarding process can make clients feel like they ordered a custom suit, but ended up with an off-the-rack outfit. Make sure your onboarding is as unique as your clients are.
 
-## Now that we know what not to do, let's look at some best practices:
+<h2 id="best-practices"> Now that we know what not to do, let's look at some best practices: </h2>
 
 • Make It Personal: You're not just selling a product, you're building a partnership. Add personal touches to make your clients feel valued.
 
