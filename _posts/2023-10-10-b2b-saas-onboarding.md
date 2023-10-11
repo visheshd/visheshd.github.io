@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are you making one of these three mistakes while onboarding customers as a B2B SaaS?
+title: Are you making one of these three mistakes while onboarding enterprise customers as a B2B SaaS?
 type: post
 published: true
 excerpt: "It doesn't have to be like a high-stakes poker game.
@@ -11,13 +11,13 @@ comments: true
 tags: [b2b saas, product onboarding, customer success]
 ---
 
-Are you making one of these three mistakes while onboarding customers as a B2B SaaS?
+Are you making one of these three mistakes while onboarding enterprise customers as a B2B SaaS?
 
 It doesn't have to be like a high-stakes poker game.
 
 Onboarding isn't just a 'how-to' session for your product. It's your first real conversation with your client. It's your chance to set the tone for trust, collaboration, and mutual growth.
 
-But, as with any dialogue, things can go awry. Here are four ways you might be accidentally sabotaging your own onboarding process:
+But, as with any dialogue, things can go awry. Here are three ways you might be accidentally sabotaging your own onboarding process:
 
 1. Playing Hide-and-Seek with Expectations
 
@@ -29,7 +29,7 @@ Sure, you're excited about all the features your product offers. But loading you
 
 3. Using the 'One Size Fits All' Approach
 
-Not all clients wear the same size. A generic onboarding process can make clients feel like they ordered a custom suit, but ended up with an off-the-rack outfit. Make sure your onboarding is as unique as your clients are.
+Not all enterprise accounts are the same. A generic onboarding process can make clients feel like they ordered a custom suit, but ended up with an off-the-rack outfit. Make sure your onboarding is as unique as your clients are. Make them feel special.
 
 <h2 id="best-practices"> Now that we know what not to do, let's look at some best practices: </h2>
 
@@ -46,3 +46,5 @@ Perfecting your onboarding process isn't just about reducing churn. It's about u
 So, let's put onboarding at the forefront of our strategic initiatives. It's not just about product adoption; it's about laying the foundation for fruitful relationships.
 
 And remember, if you're ever in doubt, there's no harm in seeking a little expert advice. After all, even the best poker players have a coach in their corner.
+
+Would love to hear what do you do that makes your onboarding experience great?
