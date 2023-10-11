@@ -20,12 +20,15 @@ Onboarding isn't just a 'how-to' session for your product. It's your first real 
 But, as with any dialogue, things can go awry. Here are four ways you might be accidentally sabotaging your own onboarding process:
 
 1. Playing Hide-and-Seek with Expectations
+
 No one enjoys a surprise when they thought they were getting a deal. Imagine buying a car, only to find out it doesn't include wheels. That's what it feels like when you don't set clear expectations from the start. Be transparent. Be honest. Let your clients know what they're getting into.
 
 2. Overdosing on Information
+
 Sure, you're excited about all the features your product offers. But loading your clients with everything at once is like asking them to drink from a firehose. Instead, try a 'drip' approach. Allow them to savour each feature as it becomes relevant in their journey.
 
 3. Using the 'One Size Fits All' Approach
+
 Not all clients wear the same size. A generic onboarding process can make clients feel like they ordered a custom suit, but ended up with an off-the-rack outfit. Make sure your onboarding is as unique as your clients are.
 
 <h2 id="best-practices"> Now that we know what not to do, let's look at some best practices: </h2>
