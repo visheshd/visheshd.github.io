@@ -18,14 +18,14 @@ Every entrepreneur aspires to innovate, break boundaries, and redefine industrie
 
 Beyond electric cars and rockets, Musk has gifted us with an algorithm. Using this algorithm -  They drove the "per kilogram cost" of a Falcon 9 launch to $1520. It is simple yet can transform the way you think about your business.
 
-Elon's Five Commandments
+## Elon's Five Commandments
 
 From his experiences in the Nevada and Fremont factories, Musk developed a five-step approach:
 
 1. Know your requirements
   Every requirement should come from a person. It shouldn't be a faceless requirement from a department. Musk says requirements from intelligent people are the most treacherous. The solution? Question them. 
 
-A valued customer once requested a high-tech text extraction feature for pulling formulas from PDFs, a task with a potential $500k price tag. Upon discussing the real need behind this request, we collectively realized it wasn't essential after all.
+  A valued customer once requested a high-tech text extraction feature for pulling formulas from PDFs, a task with a potential $500k price tag. Upon discussing the real need behind this request, we collectively realized it wasn't essential after all.
 
 What requirements in your business have you accepted without question?
 
