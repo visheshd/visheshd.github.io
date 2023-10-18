@@ -41,6 +41,7 @@ From his experiences in the Nevada and Fremont factories, Musk developed a five-
 ### 5. Automation is the Final Frontier
    While automation is tempting (and certainly the future), it's the final step in Musk's algorithm. He admits to prematurely automating steps in the past. Remember, you can't set things in 'automatic mode' until you're entirely sure about what's being automated.
 
+## Summary
 For the founders facing the funding winter - a winter looking graver than the one from Game of Thrones. Musk's algorithm isn't just a business strategy; it's a philosophy. 
 
 By adopting and internalizing these five commandments, not only can you make smarter decisions for your enterprise, but you also build a resilient foundation that withstands the test of time. In the words of Musk himself, repeat this algorithm to an "annoying degree."  
