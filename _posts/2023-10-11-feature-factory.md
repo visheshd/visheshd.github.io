@@ -24,30 +24,31 @@ Engineering is more than a feature factory.
 But what does engineering do with all of this new free time if we decide to slow down and really make every feature win its seat on the train?
 
 <H2 id="free-engineering-time"> Here's what engineers can do beyond churning out features: </H2>
-1. Talk to customers
+### 1. Talk to customers
 Yes, not enough engineering members actually sit on the customer or customer support calls and they should. This gets them closer to the customer who they are building for!
 
-2. Explore
+### 2. Explore
 Give them time to explore new ideas. Autonomy to add things that they might interested in experimenting with.
 
-3. Enhance the developer experience
+### 3. Enhance the developer experience
 - Cut the time to set up a developer machine for someone new joining in.
 - Identify and fix things that are slowing engineers down while working on their local machines.
 - Eliminate grunt work that engineers have to carry out regularly.
 
-4. Speed up release times
+### 4. Speed up release times
 - Improve the time it takes to merge the pushed changes for a developer.
 - Cutting the overall time to get to production. Especially things that are carried out manually to push a release if any.
 
-5. Stability
+### 5. Stability
 - Prioritize E2E automated tests. Stability through simulated tests can accelerate releases in the long term.
 - Refactoring code where needed.
 - All the TODO things that have been lying around for years :)
 
-6. Improve Monitoring
+### 6. Improve Monitoring
 Better monitoring equals proactive problem-solving.
 
-7. Upgrade Security
+### 7. Upgrade Security
 Often overlooked due to fast-paced development, but security is crucial.
 
-In summary, productivity is easy to showcase, but outcomes are what drive results. So next time you're caught in the feature churn, remember - there's more to engineering than meets the eye. Let's focus on the right things.
+## Summary
+Productivity is easy to showcase, but outcomes are what drive results. So next time you're caught in the feature churn, remember - there's more to engineering than meets the eye. Let's focus on the right things.
