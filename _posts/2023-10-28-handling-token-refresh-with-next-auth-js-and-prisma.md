@@ -27,8 +27,6 @@ In this guide, we'll look at how to handle token refresh using the `signIn` and 
 When a user signs in, we can use the `signIn` event to update the token information in the database. This is where you add the code snippet for handling the sign-in event.
 
 <code>
-// ...other imports
-import { prisma } from "@web/server/db";
 
 export const authOptions: NextAuthOptions = {
   callbacks: {
@@ -68,7 +66,6 @@ export const authOptions: NextAuthOptions = {
 Similarly, when a user signs out, we may want to clear the token information from the database. This section will provide the code snippet for handling the sign-out event.
 
 <code>
-// ...within authOptions
 events: {
     // ...other events
     signOut: async (message) => {
