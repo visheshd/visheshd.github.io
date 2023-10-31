@@ -15,6 +15,9 @@ NextAuth.js is a popular authentication library for Next.js applications. It mak
 
 When integrating OAuth providers like Google or Discord, it's essential to handle token refresh to ensure that the tokens remain valid. This is particularly important for scenarios where your application needs to make authenticated requests to third-party APIs on behalf of the user.
 
+While doing this with Google you might get the following error.
+> 401 Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential.
+
 In this guide, we'll look at how to handle token refresh using the `signIn` and `signOut` events provided by NextAuth.js, and how to update the token information in the database using Prisma.
 
 ## Prerequisites
