@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://vishesh.space
+
+# Sitemaps
+Sitemap: https://vishesh.space/sitemap.xml
