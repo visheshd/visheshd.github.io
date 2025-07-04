@@ -1,0 +1,2046 @@
+# Venturing with Vishesh - Startup & Engineering Insights (LLM Summary)
+Generated: 2025-07-04T02:54:26.624Z
+Total Posts: 98
+Total Words: ~40,415
+
+# About Venturing with Vishesh by Vishesh Duggar
+
+## Blog Overview
+Venturing with Vishesh is Personal blog covering startup strategy, product development, hiring, and technical expertise.
+
+**Author:** Vishesh Duggar
+**Tagline:** Startup insights, engineering wisdom, and practical advice for founders
+**Content Span:** 2015-2024 (Nearly a decade of startup and engineering insights)
+
+## Expertise Areas
+• Building internal tools using AI
+• Shipping roadmap-critical features
+• Fixing product & growth bottlenecks
+• Launching faster with fewer people
+• Turning messy ideas into working systems
+• Startup hiring and team building
+• Technical architecture and development
+• Product-market fit and customer validation
+
+## Target Audience
+• Startup founders and co-founders
+• Product managers and engineers
+• Early-stage startup teams
+• Technical leaders and CTOs
+• Entrepreneurs seeking practical advice
+• Anyone building products or teams
+
+## Content Themes & Topics
+• Startup strategy and execution
+• Product development and roadmapping
+• Hiring and team optimization
+• Technical tutorials and best practices
+• Customer validation and market fit
+• Growth hacking and lean methodologies
+• Engineering productivity and tools
+• Lessons learned from real startup experiences
+
+## About the Author
+Experienced startup founder and technical advisor helping early-stage companies build better products faster with smaller teams
+
+Vishesh helps startups with practical, hands-on advice drawn from real experience building products and teams. His content focuses on actionable insights rather than theory, making it valuable for founders who need to ship fast and build efficiently.
+
+## Why This Content Matters
+- Practical advice from someone who's been in the trenches
+- Focus on lean methodologies and efficient execution
+- Real examples and case studies from startup experiences
+- Technical depth combined with business strategy
+- Emphasis on building the right thing, not just building fast
+
+---
+
+
+
+## Blog Content Overview
+This blog contains 98 posts spanning from 2015 to 2024, providing nearly a decade of startup and engineering insights. Content ranges from technical tutorials to strategic business advice, all focused on practical implementation and real-world experience.
+
+Content is particularly valuable for understanding:
+- How to build and scale startup teams efficiently
+- Product development strategies that work in practice
+- Technical architecture decisions for startups
+- Customer validation and market fit approaches
+- Lean methodologies and growth hacking techniques
+
+## Blog Posts Summary
+Each post summary includes key excerpts and main topics for quick LLM reference.
+
+### [1] Cost-Effective Strategies for Local Startup Hiring in San Francisco
+
+**Metadata:**
+- Date: 2024-07-14
+- Author: Vishesh Duggar
+- Tags: san-francisco, startup, hiring, local, budget, strategy
+- Reading Time: 3 min
+- Word Count: 475
+- Excerpt: A lean founder’s guide to hiring locally in the Bay Area without blowing your runway — from filtering for high-agency to optimizing local SEO.
+
+**Key Content:**
+Hiring in San Francisco feels like a paradox. You’re surrounded by some of the best talent in the world —
+And still, it’s brutally hard (and expensive) to hire well. Founders in the Bay often default to two extremes:
+
+Compete with FAANG on comp — and burn runway fast
+Offshore everything — and struggle with speed, context, or culture fit
+
+But there’s a third path:
+Hire locally.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [2] Roadmap-Critical Engineering with Fewer People – Lessons from Startup Hiring Near Me in London
+
+**Metadata:**
+- Date: 2024-07-13
+- Author: Vishesh Duggar
+- Tags: engineering, startup, local-hiring, team-optimization, roadmap, london
+- Reading Time: 3 min
+- Word Count: 508
+- Excerpt: Implementing efficient engineering practices with smaller teams, drawing insights from local startup hiring experiences in London.
+
+**Key Content:**
+Every founder in London is looking for the same thing:
+
+> “An engineer who can ship fast, handle chaos, and think like a founder. ”
+
+But when you start hiring locally, you run into a wall:
+
+• The good ones are already hired
+• The rest are chasing stability or unicorn perks
+• And hiring even a single engineer can dent your burn for 3–6 months
+
+Still, founders are Googling “startup hiring near me in London” every day — and so are candidates.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [3] Cost-Effective Strategies for Local Startup Hiring
+
+**Metadata:**
+- Date: 2024-07-12
+- Author: Vishesh Duggar
+- Tags: local-hiring, startup, budget, recruitment, strategy
+- Reading Time: 3 min
+- Word Count: 541
+- Excerpt: Cost-effective strategies for local startup hiring, balancing talent acquisition with budget constraints.
+
+**Key Content:**
+Job seekers are literally typing “startups hiring near me” into Google. That’s your signal. If you’re a founder hiring locally — even on a tight budget — this is your chance to show up before they land on some bloated job board or get poached by a BigCo.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [4] When to bring in a former founder to unblock progress – Lessons from startup hiring remote
+
+**Metadata:**
+- Date: 2024-07-11
+- Author: Vishesh Duggar
+- Tags: remote-work, startup, hiring, founder, leadership
+- Reading Time: 2 min
+- Word Count: 384
+- Excerpt: Strategic insights on leveraging former founder expertise in remote startup environments to overcome growth challenges.
+
+**Key Content:**
+Remote-first startups are supposed to move fast. But more often than not, they stall. > Slack gets quieter. > Specs get fuzzier. > Deadlines get missed. > And no one really knows who’s blocking what. It’s not that people aren’t working.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [5] The Case Against startup hiring in Noida (And a Smarter Alternative)
+
+**Metadata:**
+- Date: 2024-07-10
+- Author: Vishesh Duggar
+- Tags: noida, startup, hiring, alternatives, team-building
+- Reading Time: 3 min
+- Word Count: 410
+- Excerpt: A critical analysis of startup hiring practices in Noida, with alternative approaches for building effective teams.
+
+**Key Content:**
+Noida has quietly become a startup hotspot in India — but with that growth comes a familiar challenge:
+
+> Lots of hiring. Not enough impact. If you’re a founder hiring in Noida, you’ve likely seen it:
+
+• Fancy resumes, poor execution
+• Low ownership despite impressive backgrounds
+• Churn, ghosting, and candidates optimizing for title, not traction
+
+This isn’t a critique of Noida talent.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [6] From startup hiring Americans in Paris to Execution - Growth hacking with lean resources
+
+**Metadata:**
+- Date: 2024-07-09
+- Author: Vishesh Duggar
+- Tags: paris, international-hiring, startup, growth-hacking, execution
+- Reading Time: 3 min
+- Word Count: 428
+- Excerpt: Insights on building international teams in Paris while implementing effective growth strategies with limited resources.
+
+**Key Content:**
+Paris might not be the first place that comes to mind when you think “scrappy American startup hustle. ”
+But that’s changing — fast. With global founders, remote-first mindsets, and a surge of venture interest, more U.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [7] Austin Tech Startup Hiring - Growth hacking with lean resources
+
+**Metadata:**
+- Date: 2024-07-08
+- Author: Vishesh Duggar
+- Tags: austin, tech, startup, hiring, growth-hacking
+- Reading Time: 3 min
+- Word Count: 418
+- Excerpt: Navigating the Austin tech ecosystem while implementing effective growth hacking strategies with limited resources.
+
+**Key Content:**
+Austin is booming with startup energy — but the funding doesn’t always keep pace with the ambition. Which is why growth hacking with lean resources isn’t just a tactic here… it’s a survival skill. Whether you're building in fintech, SaaS, or healthtech — hiring in Austin has its own flavor.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [8] Founder's Guide to startup hiring board - Fixing product bottlenecks
+
+**Metadata:**
+- Date: 2024-07-07
+- Author: Vishesh Duggar
+- Tags: startup, hiring, product-development, founder-guide, bottlenecks
+- Reading Time: 3 min
+- Word Count: 457
+- Excerpt: Strategic guidance for founders on using hiring boards effectively to resolve product development challenges.
+
+**Key Content:**
+When you hit a bottleneck, the instinct is to hire. And naturally, founders flock to startup hiring boards — AngelList (Wellfound), Y Combinator’s job board, Work at a Startup, or even Twitter and niche Slack communities. But here’s the truth:
+
+> A hiring board won’t fix a product bottleneck — clarity will.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [9] Startup Hiring Companies for Startups - What Works, What Doesn't
+
+**Metadata:**
+- Date: 2024-07-06
+- Author: Vishesh Duggar
+- Tags: startup, hiring, recruitment, best-practices, lessons-learned
+- Reading Time: 3 min
+- Word Count: 498
+- Excerpt: A detailed analysis of hiring companies serving startups, examining successful approaches and common pitfalls.
+
+**Key Content:**
+Startup hiring is a beast of its own. It’s not about credentials or corporate polish — it’s about execution under chaos, rapid learning, and high agency. Yet many hiring companies still try to serve startups with a playbook built for corporates.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [10] Platform For Startup Hiring - Roadmap-critical engineering with fewer people
+
+**Metadata:**
+- Date: 2024-07-05
+- Author: Vishesh Duggar
+- Tags: startup, hiring, platform, engineering, team-building
+- Reading Time: 3 min
+- Word Count: 455
+- Excerpt: Exploring effective platforms and strategies for startup hiring while maintaining lean engineering teams.
+
+**Key Content:**
+Startups don’t just need engineers. They need engineers who can ship what actually matters. Yet most hiring platforms focus on quantity over context — profiles, resumes, pedigree. What’s often missing.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [11] From startup hiring meaning to Execution - How to build internal tools using AI
+
+**Metadata:**
+- Date: 2024-07-04
+- Author: Vishesh Duggar
+- Tags: startup, hiring, AI, internal-tools, execution
+- Reading Time: 3 min
+- Word Count: 427
+- Excerpt: Understanding the fundamentals of startup hiring and implementing AI-powered internal tools for better execution.
+
+**Key Content:**
+Startup hiring doesn’t just mean “fill roles. ”
+
+It means:
+Bring in capabilities that push the company forward. Yet too many founders treat hiring like a checklist:
+
+• Backend dev. ✅
+
+But if you’ve hired everyone and still can’t ship fast, there’s a problem.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [12] Startup Hiring List - Growth hacking with lean resources
+
+**Metadata:**
+- Date: 2024-07-03
+- Author: Vishesh Duggar
+- Tags: startup, hiring, growth-hacking, lean-startup, resources
+- Reading Time: 2 min
+- Word Count: 395
+- Excerpt: Essential hiring strategies for startups focusing on growth hacking while maintaining lean operations and resource efficiency.
+
+**Key Content:**
+Startups love the idea of growth hacking. Do more with less. Unlock traction without burning through capital. But here’s the contradiction:
+
+> Most startups try to growth hack… by building a traditional hiring plan.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [13] Founder's Guide to Berlin startup hiring - Roadmap-critical engineering with fewer people
+
+**Metadata:**
+- Date: 2024-07-02
+- Author: Vishesh Duggar
+- Tags: berlin, startup, hiring, engineering, founder-guide
+- Reading Time: 3 min
+- Word Count: 456
+- Excerpt: A comprehensive guide for founders navigating Berlin's startup ecosystem while building efficient engineering teams.
+
+**Key Content:**
+Berlin’s startup energy is unmistakable. It’s fast, gritty, global — and increasingly technical. But even with strong VC backing and an active talent pool, most early-stage Berlin founders face a familiar tension:
+
+> Should we hire quickly to look like a real startup.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [14] When to bring in a former founder to unblock progress – Lessons from startup hiring in Dubai
+
+**Metadata:**
+- Date: 2024-07-01
+- Author: Vishesh Duggar
+- Tags: dubai, startup, hiring, founder, leadership
+- Reading Time: 2 min
+- Word Count: 394
+- Excerpt: Strategic insights on leveraging former founder expertise in Dubai's startup ecosystem to overcome growth challenges.
+
+**Key Content:**
+Dubai's startup ecosystem is on fire. Funding is flowing, talent is arriving, and innovation is happening across fintech, logistics, healthtech, and beyond. That’s still hard. And more often than not, the barrier isn’t capital.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [15] Fintech Startup Hiring vs Founder-Led Execution - What Matters in Early Stage
+
+**Metadata:**
+- Date: 2024-06-30
+- Author: Vishesh Duggar
+- Tags: fintech, startup, hiring, founder-led, early-stage
+- Reading Time: 3 min
+- Word Count: 441
+- Excerpt: Analyzing the trade-offs between traditional hiring and founder-led execution in early-stage fintech startups.
+
+**Key Content:**
+In fintech, the stakes are higher. You’re dealing with regulation, security, compliance, and trust — often from day one. So it’s no surprise that most early-stage fintech founders start hiring fast:
+
+> "We need a Head of Risk, a backend engineer, a compliance lead, and a designer… by next quarter.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [16] Doing AI startup hiring Without Breaking the Bank
+
+**Metadata:**
+- Date: 2024-06-29
+- Author: Vishesh Duggar
+- Tags: AI, startup, hiring, budget, team-building
+- Reading Time: 3 min
+- Word Count: 477
+- Excerpt: Cost-effective strategies for building AI teams in startups, balancing talent acquisition with budget constraints.
+
+**Key Content:**
+Hiring for an AI startup is tricky. You’re competing with Big Tech salaries. You need engineers who understand research and product. And you’re expected to move fast, ship smart, and stay lean. > You can build a solid AI team without blowing your budget — if you focus on outcomes, not optics.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [17] Founder's Guide to startup hiring in Dubai - Roadmap-critical engineering with fewer people
+
+**Metadata:**
+- Date: 2024-06-28
+- Author: Vishesh Duggar
+- Tags: dubai, startup, hiring, engineering, founder-guide
+- Reading Time: 3 min
+- Word Count: 434
+- Excerpt: Essential insights for founders on building efficient engineering teams in Dubai's startup ecosystem while maintaining lean operations.
+
+**Key Content:**
+Dubai’s startup scene is heating up. Founders are raising faster. Talent is flowing in. The ecosystem is buzzing. But here’s what most founders get wrong early on:
+
+> They follow the hiring playbook too soon — and too blindly.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [18] From startup hiring playbook to Execution - Roadmap-critical engineering with fewer people
+
+**Metadata:**
+- Date: 2024-06-27
+- Author: Vishesh Duggar
+- Tags: startup, hiring, engineering, execution, team-optimization
+- Reading Time: 3 min
+- Word Count: 416
+- Excerpt: A practical guide to transitioning from hiring strategies to effective execution, focusing on essential engineering with optimized team size.
+
+**Key Content:**
+Startups love playbooks. Especially hiring ones. > "Raise money → Hire fast → Build a team → Ship product → Win. "
+
+But the real startup journey isn’t linear — and the hiring playbook often breaks before the product even ships.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [19] Startup Companies Hiring in USA vs Founder-Led Execution - What Matters in Early Stage
+
+**Metadata:**
+- Date: 2024-06-26
+- Author: Vishesh Duggar
+- Tags: startup, hiring, USA, founder-led, early-stage, execution
+- Reading Time: 2 min
+- Word Count: 388
+- Excerpt: Comparing traditional hiring approaches with founder-led execution in US startups, and identifying what truly drives success in early-stage companies.
+
+**Key Content:**
+startup world, hiring fast has become a badge of honor. Hire more engineers. But here's the inconvenient truth:
+
+> Hiring isn’t what makes early-stage startups succeed. > Founder-led execution is. Especially in the U.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [20] Why US startup hiring is broken (And How To Fix It With roadmap-critical engineering)
+
+**Metadata:**
+- Date: 2024-06-25
+- Author: Vishesh Duggar
+- Tags: startup, hiring, engineering, US-startups, team-building
+- Reading Time: 2 min
+- Word Count: 381
+- Excerpt: An analysis of the current challenges in US startup hiring practices and how focusing on roadmap-critical engineering with smaller teams can provide solutions.
+
+**Key Content:**
+US startup hiring is broken. Not because there’s a talent shortage. Not because of remote vs. in-office debates. Not even because of compensation inflation (though that’s real too). > It’s broken because most startups are hiring for optics — not outcomes.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [21] Fixing product bottlenecks – Lessons from startup hiring event
+
+**Metadata:**
+- Date: 2024-06-24
+- Author: Vishesh Duggar
+- Tags: product-development, startup, hiring, bottlenecks, scaling
+- Reading Time: 3 min
+- Word Count: 430
+- Excerpt: Key insights on identifying and resolving product development bottlenecks, drawn from experiences at startup hiring events.
+
+**Key Content:**
+Startup hiring events are usually designed to solve one thing:
+
+> "We need to move faster. "
+
+But what I’ve seen — again and again — is this:
+
+You leave the event with resumes. Because product bottlenecks aren’t always about missing people.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [22] Tech Startup Hiring Manager - How to build internal tools using AI
+
+**Metadata:**
+- Date: 2024-06-23
+- Author: Vishesh Duggar
+- Tags: tech, startup, hiring, AI, internal-tools, management
+- Reading Time: 3 min
+- Word Count: 498
+- Excerpt: A comprehensive guide for hiring managers on leveraging AI to create efficient internal tools while building and scaling tech teams.
+
+**Key Content:**
+As a tech startup hiring manager, your job isn’t just to fill roles — it’s to remove friction. That means helping teams move faster, ship smarter, and scale without getting bogged down in headcount too early. > One of the highest-leverage ways to do that today.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [23] Boston Startup Hiring - When to bring in a former founder to unblock progress
+
+**Metadata:**
+- Date: 2024-06-22
+- Author: Vishesh Duggar
+- Tags: boston, startup, hiring, founder, growth, leadership
+- Reading Time: 3 min
+- Word Count: 422
+- Excerpt: Exploring the Boston startup ecosystem and the strategic timing of bringing in experienced founders to accelerate growth and overcome challenges.
+
+**Key Content:**
+Boston’s startup scene is buzzing — healthcare, AI, SaaS, robotics, you name it. But there’s one common thread running through even the best-funded, best-networked early-stage teams:
+
+> Progress slows down before anyone realizes what's wrong. The roadmap gets fuzzy.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [24] Untitled
+
+**Metadata:**
+- Date: 2024-06-21
+- Author: Vishesh Duggar
+- Tags: None
+- Reading Time: 1 min
+- Word Count: 55
+- Excerpt: No excerpt available
+
+**Key Content:**
+Here’s your full blog post for:
+
+"Startup Hiring Help – Turning Messy Startup Ideas Into Working Systems"
+
+• --
+
+[code block]
+
+• --
+
+Would you like this spun into a founder-facing lead magnet, like a checklist titled “What to Do Before Your First Hire”. Or a visual version of this framework for a LinkedIn carousel.
+
+**Main Topics:**
+Focused article with specific actionable advice
+
+---
+
+### [25] When to bring in a former founder to unblock progress – Lessons from startup hiring playbook
+
+**Metadata:**
+- Date: 2024-06-20
+- Author: Vishesh Duggar
+- Tags: startup, hiring, founder, leadership, growth
+- Reading Time: 3 min
+- Word Count: 530
+- Excerpt: Learn when and how to leverage former founder expertise to overcome startup challenges, with insights from successful hiring practices.
+
+**Key Content:**
+Most startup hiring playbooks start with titles. > “We need a Head of Product. ”
+> “Let’s bring in a growth engineer. ”
+> “Time to hire a senior PM. ”
+
+But what if the problem isn’t a missing title — it’s a stuck roadmap.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [26] The Case Against startup hiring event (And a Smarter Alternative)
+
+**Metadata:**
+- Date: 2024-06-19
+- Author: Vishesh Duggar
+- Tags: startup hiring
+- Reading Time: 3 min
+- Word Count: 432
+- Excerpt: No excerpt available
+
+**Key Content:**
+A founder friend of mine pulled off one of the smartest hiring moves I've seen this year:
+
+> He hosted a happy hour for engineers — and asked a few trusted devs in his network to bring +1s. Just real people, real conversations… and high-context signal. He hired two top-notch engineers from that one evening.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [27] The Case Against tech startup hiring manager (And a Smarter Alternative)
+
+**Metadata:**
+- Date: 2024-06-18
+- Author: Vishesh Duggar
+- Tags: startup hiring
+- Reading Time: 3 min
+- Word Count: 402
+- Excerpt: No excerpt available
+
+**Key Content:**
+In big tech, a hiring manager makes perfect sense. They coordinate interviews, manage pipelines, and help scale teams across functions. But at an early-stage startup. A hiring manager is often a very expensive way to stay stuck.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [28] Doing startup hiring software Without Breaking the Bank
+
+**Metadata:**
+- Date: 2024-06-17
+- Author: Vishesh Duggar
+- Tags: startup hiring
+- Reading Time: 3 min
+- Word Count: 414
+- Excerpt: No excerpt available
+
+**Key Content:**
+Hiring software is supposed to help you scale. But most early-stage founders end up paying for complexity they don't need — and ignoring simple tactics that actually work. > You don't need enterprise-level ATS tools.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [29] Why startup hiring timeline Is Broken (And How To Fix It With turning messy startup ideas into working systems)
+
+**Metadata:**
+- Date: 2024-06-16
+- Author: Vishesh Duggar
+- Tags: startup hiring
+- Reading Time: 2 min
+- Word Count: 373
+- Excerpt: No excerpt available
+
+**Key Content:**
+There's a silent killer in early-stage startups:
+Broken hiring timelines. Not hiring the wrong person. Not hiring too slow. But hiring before your ideas are even real. Startups often confuse momentum with headcount — and that mistake can cost months of progress.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [30] Startup Hiring: when to bring in a former founder to unblock progress
+
+**Metadata:**
+- Date: 2024-06-15
+- Author: Vishesh Duggar
+- Tags: startup hiring
+- Reading Time: 2 min
+- Word Count: 376
+- Excerpt: No excerpt available
+
+**Key Content:**
+Most startups treat hiring like a checklist. > Growth marketer. But here's the reality at early stage:
+
+You're not short on people. You're short on progress. That's when you stop thinking in titles — and start thinking in outcomes.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [31] Should You Care About tech startup hiring? Only If You're Serious About growth hacking with lean resources
+
+**Metadata:**
+- Date: 2024-06-14
+- Author: Vishesh Duggar
+- Tags: startup hiring
+- Reading Time: 2 min
+- Word Count: 368
+- Excerpt: No excerpt available
+
+**Key Content:**
+Every tech founder eventually hits the hiring question:
+
+> "Should we start building out the team. "
+
+And just as quickly — the burn starts climbing. Engineers, PMs, designers, marketers. Complexity rises.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [32] Should You Care About startup hiring timeline? Only If You're Serious About turning messy startup ideas into working systems
+
+**Metadata:**
+- Date: 2024-06-12
+- Author: Vishesh Duggar
+- Tags: startup hiring
+- Reading Time: 3 min
+- Word Count: 404
+- Excerpt: No excerpt available
+
+**Key Content:**
+Every founder asks the same question:
+
+> "When should we start hiring. "
+
+There's no perfect timeline. But there's a wrong one:
+
+Hiring before your ideas are real. The biggest mistake early-stage startups make.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [33] Doing startup hiring strategy Without Breaking the Bank
+
+**Metadata:**
+- Date: 2024-06-11
+- Author: Vishesh Duggar
+- Tags: startup hiring
+- Reading Time: 2 min
+- Word Count: 363
+- Excerpt: No excerpt available
+
+**Key Content:**
+Hiring can break your startup long before anything else does. Especially when you're copying a hiring strategy designed for well-funded companies — not lean, scrappy teams still figuring it out. You don't need a "Head of X.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [34] Why startup companies hiring remote Is Broken (And How To Fix It With how to build internal tools using AI)
+
+**Metadata:**
+- Date: 2024-06-10
+- Author: Vishesh Duggar
+- Tags: startup hiring
+- Reading Time: 3 min
+- Word Count: 405
+- Excerpt: No excerpt available
+
+**Key Content:**
+Remote hiring isn't broken because remote doesn't work. It's broken because most startups hire the wrong way. They look at the wrong signals:
+• Pedigree
+• Big company logos
+• Number of years in a similar role
+
+But when you're hiring remotely — especially early stage — none of that matters if one thing is missing:
+
+> High agency.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [35] Doing startup hiring playbook Without Breaking the Bank
+
+**Metadata:**
+- Date: 2024-06-08
+- Author: Vishesh Duggar
+- Tags: startup hiring
+- Reading Time: 3 min
+- Word Count: 412
+- Excerpt: No excerpt available
+
+**Key Content:**
+Every early-stage founder wants the dream team. But here's the plot twist no one warns you about:
+
+> Following the typical startup hiring playbook is a great way to burn cash before you build anything that works. You hire a designer for polish before you've nailed the core UX.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [36] Fixing product bottlenecks – Lessons from startup hiring freeze
+
+**Metadata:**
+- Date: 2024-06-07
+- Author: Vishesh Duggar
+- Tags: startup hiring
+- Reading Time: 3 min
+- Word Count: 529
+- Excerpt: No excerpt available
+
+**Key Content:**
+Startups love to blame their bottlenecks on headcount. > "We're not shipping because we need more engineers. "
+> "We're stuck until we hire a product manager. "
+> "We've paused growth until we bring in a team.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [37] Should You Care About startup hiring events? Only If You're Serious About roadmap-critical engineering with fewer people
+
+**Metadata:**
+- Date: 2024-06-06
+- Author: Vishesh Duggar
+- Tags: startup hiring
+- Reading Time: 2 min
+- Word Count: 381
+- Excerpt: No excerpt available
+
+**Key Content:**
+Startup hiring events are back. Speed dating for talent. Branded T-shirts. And every startup shouting:
+
+> "We're hiring engineers. "
+
+But here's the truth:
+Most early-stage startups shouldn't be hiring engineers at all.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [38] Startup Hiring Strategy: turning messy startup ideas into working systems
+
+**Metadata:**
+- Date: 2024-06-05
+- Author: Vishesh Duggar
+- Tags: startup hiring
+- Reading Time: 2 min
+- Word Count: 396
+- Excerpt: No excerpt available
+
+**Key Content:**
+Most startup ideas don't die because they're bad. They die because they stay messy. A Notion board here. A Figma screen there. Some market research in a Google Doc. A thousand "we should build this" conversations floating around.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [39] Founder's Guide to startup hiring in Noida: how to build internal tools using AI
+
+**Metadata:**
+- Date: 2024-06-04
+- Author: Vishesh Duggar
+- Tags: startup hiring
+- Reading Time: 3 min
+- Word Count: 418
+- Excerpt: No excerpt available
+
+**Key Content:**
+If you're building a startup in Noida, you're in good company. But there's also a growing problem:
+Everyone is hiring. Few are shipping. Founders get caught in a hiring loop — burning time, money, and focus looking for "the right team" before there's even a real product.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [40] Tech Startup Hiring Manager vs Founder-Led Execution: What Matters in Early Stage
+
+**Metadata:**
+- Date: 2024-06-03
+- Author: Vishesh Duggar
+- Tags: startup hiring
+- Reading Time: 3 min
+- Word Count: 413
+- Excerpt: No excerpt available
+
+**Key Content:**
+In the early days of a startup, every decision compounds. But one of the most expensive decisions — in both time and money — is this:
+
+> Do we bring in a hiring manager or keep executing founder-led. At first glance, it sounds responsible.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [41] Startup Hiring vs Founder-Led Execution: What Matters in Early Stage
+
+**Metadata:**
+- Date: 2024-06-02
+- Author: Vishesh Duggar
+- Tags: startup hiring
+- Reading Time: 2 min
+- Word Count: 392
+- Excerpt: No excerpt available
+
+**Key Content:**
+Most early-stage startups think their biggest problem is hiring. Founders often say:
+> "We need a developer to build the product. "
+> "We need a growth hacker to run experiments. "
+> "We need a PM to bring structure.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [42] Startup Hiring Timeline: when to bring in a former founder to unblock progress
+
+**Metadata:**
+- Date: 2024-06-01
+- Author: Vishesh Duggar
+- Tags: startup hiring
+- Reading Time: 3 min
+- Word Count: 494
+- Excerpt: No excerpt available
+
+**Key Content:**
+Most startups hire too early. They bring in a senior engineer when the problem isn't tech. They bring in a head of growth before knowing what actually grows. They outsource to an agency, thinking execution will fix strategy.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [43] Untitled
+
+**Metadata:**
+- Date: 2024-05-30
+- Author: Vishesh Duggar
+- Tags: None
+- Reading Time: 1 min
+- Word Count: 1
+- Excerpt: No excerpt available
+
+**Key Content:**
+
+
+**Main Topics:**
+Focused article with specific actionable advice
+
+---
+
+### [44] The ego has landed.
+
+**Metadata:**
+- Date: 2024-04-11
+- Author: Vishesh Duggar
+- Tags: ai, product management, ego
+- Reading Time: 2 min
+- Word Count: 279
+- Excerpt: There are a lot of tasks where AI will replace us. However, there are things that make us special.
+
+**Key Content:**
+[Image]
+<figcaption><a href="https://www. lennysnewsletter. com/p/how-ai-will-impact-product-management" title="How AI will impact product management - By Lenny Rachitsky. ">How AI will impact product management - By Lenny Rachitsky</a>.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [45] Short story 4050 - Part I
+
+**Metadata:**
+- Date: 2024-02-22
+- Author: Vishesh Duggar
+- Tags: fiction, AI
+- Reading Time: 1 min
+- Word Count: 90
+- Excerpt: His attention is limited. Just like his predecessor.
+
+**Key Content:**
+His attention is limited. Just like his predecessor. After 2000-odd years of scrolling. And being hooked onto their glasses. Human attention isn't the same. People don't want to explore. They all crave to move in the same direction.
+
+**Main Topics:**
+Focused article with specific actionable advice
+
+---
+
+### [46] 12 years ago my CEO asked me what if I get hit by a bus.
+
+**Metadata:**
+- Date: 2024-02-05
+- Author: Vishesh Duggar
+- Tags: entrepreneurship, continuity, bus
+- Reading Time: 1 min
+- Word Count: 98
+- Excerpt: Business continuity is not something you want to forget.
+
+**Key Content:**
+[Image]
+<figcaption><a href="https://sketchplanations. com/bus-factor" title="Sketch by sketchplanations. ">Sketch by sketchplanations</a>. </figcaption>
+
+12 years ago, my CEO asked me what if I got hit by a bus.
+
+**Main Topics:**
+Focused article with specific actionable advice
+
+---
+
+### [47] 90% SaaS startup founders get this wrong with sales
+
+**Metadata:**
+- Date: 2024-01-15
+- Author: Vishesh Duggar
+- Tags: b2b, sales, enterprise
+- Reading Time: 2 min
+- Word Count: 262
+- Excerpt: Generating cash and revenue has never been more important. You can totally avoid this mistake.
+
+**Key Content:**
+[Image]
+
+The unfortunate truth. Selling SaaS is hard. Many founders make it harder for themselves. By selling to enterprise Accounts from the get-go. The Temptation
+
+The temptation to target enterprise is undeniable.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [48] Resolving Column Length Issues in Prisma with MySQL for NextAuth
+
+**Metadata:**
+- Date: 2023-11-17
+- Author: Vishesh Duggar
+- Tags: prisma, mysql, nextauth
+- Reading Time: 3 min
+- Word Count: 442
+- Excerpt: A common scenario is adapting authentication mechanisms, like NextAuth, to work with different database systems.
+
+**Key Content:**
+I recently faced an intriguing issue while integrating NextAuth with MySQL using Prisma – an issue related to column lengths. The Error
+
+The trouble began with this error during runtime:
+
+<code>
+prisma:error
+Invalid prisma. create() invocation:
+
+The provided value for the column is too long for the column's type.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [49] Run MySQL locally on macOS using Docker
+
+**Metadata:**
+- Date: 2023-11-15
+- Author: Vishesh Duggar
+- Tags: mysql, docker
+- Reading Time: 2 min
+- Word Count: 378
+- Excerpt: Running a MySQL server locally can be a hassle, especially when dealing with different versions and configurations.
+
+**Key Content:**
+Running a MySQL server locally can be a hassle, especially when dealing with different versions and configurations. However, using Docker simplifies this process significantly. In this tutorial, we'll walk through setting up a MySQL server for local development using Docker, which is particularly useful when working with tools like Prisma and NextAuth.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [50] This simple productivity hack will change your life.
+
+**Metadata:**
+- Date: 2023-11-02
+- Author: Vishesh Duggar
+- Tags: productivity
+- Reading Time: 1 min
+- Word Count: 79
+- Excerpt: Simple productivity tip.
+
+**Key Content:**
+This simple productivity hack will change your life. Start doing this, and you are guaranteed tremendous momentum. Many of us have busy days yet feel we've not got enough done. We are struggling to find time to get everything done.
+
+**Main Topics:**
+Focused article with specific actionable advice
+
+---
+
+### [51] Handling Token Refresh with NextAuth.js and Prisma
+
+**Metadata:**
+- Date: 2023-10-28
+- Author: Vishesh Duggar
+- Tags: prisma, next.js, nextauth
+- Reading Time: 2 min
+- Word Count: 308
+- Excerpt: Subsequent logins or signins have stale access tokens.
+
+**Key Content:**
+js is a popular authentication library for Next. It makes it easy to set up authentication providers and handle user sessions. However, one challenge that developers often face is ensuring that OAuth tokens remain fresh.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [52] 95% of people have got hiring backward.
+
+**Metadata:**
+- Date: 2023-10-23
+- Author: Vishesh Duggar
+- Tags: hiring, startup, entrepreneurship
+- Reading Time: 2 min
+- Word Count: 227
+- Excerpt: The average cost of a bad hire is 30% of that hire's annual salary. The real cost could be your startup.
+
+**Key Content:**
+[Image]
+
+The average cost of a bad hire is 30% of that hire's annual salary. A single bad hire costs companies an average of $14,900. Combine that with the cost of a mediocre hiring process. You could lose your company.
+
+**Main Topics:**
+Focused article with specific actionable advice
+
+---
+
+### [53] Elon Musk's Five Commandments for Entrepreneurs
+
+**Metadata:**
+- Date: 2023-10-18
+- Author: Vishesh Duggar
+- Tags: strategy, requirements, entrepreneurship
+- Reading Time: 3 min
+- Word Count: 414
+- Excerpt: The difference between success and stagnation lies in the approach we take to solve problems.
+
+**Key Content:**
+[Image]
+
+The difference between success and stagnation lies in the approach we take to solve problems. Every entrepreneur aspires to innovate, break boundaries, and redefine industries. Today, we draw inspiration from a man who's done it all: Elon Musk.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [54] Don't build the next Jira / Salesforce despite their success!
+
+**Metadata:**
+- Date: 2023-10-11
+- Author: Vishesh Duggar
+- Tags: product managers, feature bloat, productivity
+- Reading Time: 2 min
+- Word Count: 389
+- Excerpt: Engineering is more than a feature factory. Product managers see new features as a way to improve the product. I've never seen criticism hurled toward a team for pushing out too many features. But should we?
+
+**Key Content:**
+[Image]
+
+There are many like them marching to the beat of feature churn. And frankly, we've all done it. Engineers working relentlessly, managers checking off feature lists. > Fact: Resource utilization is a top concern for management.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [55] Are you making one of these three mistakes while onboarding enterprise customers as a B2B SaaS?
+
+**Metadata:**
+- Date: 2023-10-10
+- Author: Vishesh Duggar
+- Tags: b2b saas, product onboarding, customer success
+- Reading Time: 3 min
+- Word Count: 442
+- Excerpt: It doesn't have to be like a high-stakes poker game.
+Onboarding isn't just a 'how-to' session for your product. It's your first real conversation with your client. It's your chance to set the tone for trust, collaboration, and mutual growth. 
+
+**Key Content:**
+Are you making one of these three mistakes while onboarding enterprise customers as a B2B SaaS. It doesn't have to be like a high-stakes poker game. Onboarding isn't just a 'how-to' session for your product.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [56] The cost of working on the wrong strategy
+
+**Metadata:**
+- Date: 2023-10-09
+- Author: Vishesh Duggar
+- Tags: strategy, startup, advisor
+- Reading Time: 1 min
+- Word Count: 39
+- Excerpt: Even if you're not spending anything out of pocket visibly. It could be costing your startup dearly.
+
+**Key Content:**
+The cost of a wrong strategy. It's more than dollars and cents. To fully understand it, we must dive into finance, operations, reputation, and more. Here is a over simplified calculator to shed some light.
+
+**Main Topics:**
+Focused article with specific actionable advice
+
+---
+
+### [57] How to raise your game as a founder. 9 podcasts guaranteed to accelerate your business.
+
+**Metadata:**
+- Date: 2023-10-06
+- Author: Vishesh Duggar
+- Tags: podcasts, resources, founder
+- Reading Time: 3 min
+- Word Count: 409
+- Excerpt: Some of the podcasts that I've really learned a lot from over the years.
+
+**Key Content:**
+Here are the 9 best podcasts to raise your game as a founder. Masters of Scale: Hosted by LinkedIn co-founder Reid Hoffman, this podcast dives deep into the strategies and challenges of scaling a startup. With a mix of iconic founders and unsung innovators, it's a masterclass in entrepreneurship.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [58] Hiring more could kill your startup.
+
+**Metadata:**
+- Date: 2023-10-03
+- Author: Vishesh Duggar
+- Tags: hiring, startup, entrepreneurship
+- Reading Time: 5 min
+- Word Count: 872
+- Excerpt: When to hire is as important if not more than who to hire. Keeping on eye on Revenue per employee allows you to do just that. Identify if the company should continue hiring.
+
+**Key Content:**
+[Image]
+
+<small>Data from SaaS Capital (https://www. com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/)</small>
+
+With each stage of growth comes a set of challenges and decisions that can determine the venture's fate. One such critical decision centres around scaling.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [59] 5 Signs You're Not VC Fundable in 2023
+
+**Metadata:**
+- Date: 2023-08-14
+- Author: Vishesh Duggar
+- Tags: fundraising
+- Reading Time: 2 min
+- Word Count: 329
+- Excerpt: There is little money around in the market.  Do you know if you are you VC-fundable? Let's dive into the signs that might suggest otherwise.
+
+**Key Content:**
+There is little money around in the market. Do you know if you are you VC-fundable. Let's dive into the signs that might suggest otherwise. You're Not Venturing into Generative AI
+
+Money is being thrown at pretty much only this category right now.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [60] The fastest path to making a difference.
+
+**Metadata:**
+- Date: 2023-07-27
+- Author: Vishesh Duggar
+- Tags: Oppenheimer, speed, consistency
+- Reading Time: 2 min
+- Word Count: 269
+- Excerpt: We all want to make a difference yet somehow don't move the needle far enough and or fast enough.
+
+**Key Content:**
+[Image]
+
+Photo by <a href="https://unsplash. utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText">Samuel Regan-Asante</a> on <a href="https://unsplash. com/photos/a-couple-of-people-standing-in-front-of-a-movie-theater-RC4009jYnFk.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [61] Product market fit is as hard as weight loss, okay maybe a tat little harder. Typical mistakes startups make that you should avoid.
+
+**Metadata:**
+- Date: 2023-07-14
+- Author: Vishesh Duggar
+- Tags: product market fit
+- Reading Time: 7 min
+- Word Count: 1238
+- Excerpt: Product market fit is as hard as weight loss, okay maybe a tat little harder but a lot of similarities. Understanding what it truly means to be in product market fit and avoiding typical mistakes startups make. What is product-market fit?
+
+**Key Content:**
+[Image]
+
+As a serial entrepreneur and startup advisor with over a decade of experience, I've seen firsthand the trials and tribulations that come with launching a new business. One term that is often tossed around in the startup world, but not always fully understood, is "product-market fit. " But what exactly is product-market fit.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [62] This is the no. 1 reason why startups fail. Learn how you can avoid it.
+
+**Metadata:**
+- Date: 2023-07-07
+- Author: Vishesh Duggar
+- Tags: product roadmap, startups, entrepreneurship
+- Reading Time: 5 min
+- Word Count: 943
+- Excerpt: Ever wondered why a lot of startups are spend millions and still end up with something their moms won't buy. It's not because they're jinxed or lack coffee supplies. Dive into this post to find out how you can avoid building crap that cost millions with no takers and instead create a service that real customers crave.
+
+**Key Content:**
+1 reason startups fail is because they end up building the wrong thing. Now one would wonder why would someone build something nobody wants. Its actually not that nobody wants it but very few people do.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [63] Generating GraphQL Docs
+
+**Metadata:**
+- Date: 2021-06-15
+- Author: Vishesh Duggar
+- Tags: graphql, graphql docs, documentation, typescript
+- Reading Time: 1 min
+- Word Count: 160
+- Excerpt: It is super easy to generate GraphQL docs using Docusaurus
+
+**Key Content:**
+To generate documentation for the GraphQL api the schema needs to have comments or description. Here is an example of how you could add a comment. [code block]
+
+TypeGraphQL exposes the description attribute to inject comments into the generated schema.
+
+**Main Topics:**
+Focused article with specific actionable advice
+
+---
+
+### [64] AWS Xray outside express or without a supported middleware
+
+**Metadata:**
+- Date: 2021-04-26
+- Author: Vishesh Duggar
+- Tags: aws, aws-xray, xray, nodejs
+- Reading Time: 1 min
+- Word Count: 51
+- Excerpt: Setting up AWS Xray
+
+**Key Content:**
+Manual tracing with Xray can be cumbersome and you don't really need it. Here is how you can setup automatic mode up without a middleware or outside express. So if you have a dockerized nodejs service running you can change the entrypoint of your service to something like this.
+
+**Main Topics:**
+Focused article with specific actionable advice
+
+---
+
+### [65] The best typescript dynamodb ORM
+
+**Metadata:**
+- Date: 2020-07-17
+- Author: Vishesh Duggar
+- Tags: dynamo, dynamodb, typescript, orm, nodejs
+- Reading Time: 2 min
+- Word Count: 217
+- Excerpt: In the last month and a half I have looked at multiple DynamoDB ORMs; Dyngoose is by far the best.
+
+**Key Content:**
+Selecting an ORM is a tough call because it cuts through pretty much your entire application. You want to make sure that what you end up picking something that is not only easy to use but also allows you to go native if and when needed. The three that were serious contenders included
+AWS data mapper (https://github.
+
+**Main Topics:**
+Focused article with specific actionable advice
+
+---
+
+### [66] CRA fails on CircleCI because of Terser
+
+**Metadata:**
+- Date: 2020-04-11
+- Author: Vishesh Duggar
+- Tags: customize-cra, terser, cra, minify
+- Reading Time: 1 min
+- Word Count: 72
+- Excerpt: Overriding webback config using customize-cra
+
+**Key Content:**
+So I tried upgrading CRA for an existing app. I wanted to use the latest React Fast Refresh (https://github. com/facebook/react/issues/16604) to hot reload react while making changes. Everything worked fine locally on the dev machine but the build failed on CircleCI while minifying.
+
+**Main Topics:**
+Focused article with specific actionable advice
+
+---
+
+### [67] peerDependencies Can't resolve module
+
+**Metadata:**
+- Date: 2020-04-10
+- Author: Vishesh Duggar
+- Tags: npm, peerdependencies, dependencies
+- Reading Time: 1 min
+- Word Count: 164
+- Excerpt: The right way to use peerDependencies
+
+**Key Content:**
+I'm not gonna talk about what the different types of dependencies (https://dev. to/yvonnickfrin/how-to-handle-peer-dependencies-when-developing-modules-18fa). If there is a dependency that is a library that you are using to build another library.
+
+**Main Topics:**
+Focused article with specific actionable advice
+
+---
+
+### [68] Check if an object is an instanceof an interface
+
+**Metadata:**
+- Date: 2020-04-07
+- Author: Vishesh Duggar
+- Tags: typescript, interface, instanceof
+- Reading Time: 1 min
+- Word Count: 36
+- Excerpt: Checking interface type at runtime
+
+**Key Content:**
+How do you check in typescript if variable is an instance of interface. Since types are not available at runtime typescript allows you to define type checks that you could use at runtime like:
+
+[code block].
+
+**Main Topics:**
+Focused article with specific actionable advice
+
+---
+
+### [69] Microsoft can save trees with a single notice
+
+**Metadata:**
+- Date: 2020-03-23
+- Author: Vishesh Duggar
+- Tags: microsoft, amazon basics keyboard, ethical business
+- Reading Time: 2 min
+- Word Count: 228
+- Excerpt: Why do companies publish useless information on the product?
+
+**Key Content:**
+A couple of weeks ago while unpacking things I brought back from work as I set up my home office for the few weeks of self-quarantine ahead of us. I'm looking at the keyboard or rather the back of the keyboard and I see this. It was a trademark notice notifying users about the Windows key.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [70] Query or Field Projections in ElasticSearch
+
+**Metadata:**
+- Date: 2020-01-14
+- Author: Vishesh Duggar
+- Tags: elasticsearch, search index, query performance
+- Reading Time: 2 min
+- Word Count: 256
+- Excerpt: Don't return the entire indexed document to the client when you don't need to.
+
+**Key Content:**
+I am currently working on project that involves dealing with massive amounts of data. To a point where we are seeing performance issues on the client. One of the issues we've identified that can be improved includes what we send to the UI.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [71] Private CircleCI Orb
+
+**Metadata:**
+- Date: 2019-12-20
+- Author: Vishesh Duggar
+- Tags: circleci, orb
+- Reading Time: 1 min
+- Word Count: 55
+- Excerpt: How do I create a private circleci orb?
+
+**Key Content:**
+How do I create a private circleci orb. Well turns out there isn't a way to do this. It's such an obvious usecase that they should. The next best thingk you can do is to have it be public but unlisted.
+
+**Main Topics:**
+Focused article with specific actionable advice
+
+---
+
+### [72] Typegoose stuck on find* query
+
+**Metadata:**
+- Date: 2019-07-10
+- Author: Vishesh Duggar
+- Tags: typegoose, mongoose, node, serverless
+- Reading Time: 1 min
+- Word Count: 132
+- Excerpt: Been playing with typegoose lately. The library has it's quirks including this weird issue of queries stalling.
+
+**Key Content:**
+Been playing with typegoose lately. The library has it's quirks including this weird issue of queries stalling. There are a couple of open issues highlighting the issue as I write this. For all methods like find, findOne etc the execution was simply stuck at the method call.
+
+**Main Topics:**
+Focused article with specific actionable advice
+
+---
+
+### [73] Throw away your to-do list
+
+**Metadata:**
+- Date: 2019-03-29
+- Author: Vishesh Duggar
+- Tags: productivity, calendar, to-do list
+- Reading Time: 2 min
+- Word Count: 301
+- Excerpt: I just love tweaking how I deal with my productivity levels. It's probably not good for productivity :) ...  In the past, I’ve run many experiments like waking up at 4 am, hooking up my todo list with Trello, etc, etc.
+
+**Key Content:**
+[Image]
+
+I just love tweaking how I deal with my productivity levels. It's probably not good for productivity :). In the past, I’ve run many experiments like waking up at 4 am, hooking up my todo list with Trello, etc, etc.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [74] ReactNative bundling and build issues on a new machine
+
+**Metadata:**
+- Date: 2018-11-21
+- Author: Vishesh Duggar
+- Tags: reactnative, cocoapods, ios
+- Reading Time: 1 min
+- Word Count: 176
+- Excerpt: I started to setup a ReactNative project that we have been working on for a while now on my machine. The generated iOS native code was version controlled but the build was still not functioning on my machine.
+
+**Key Content:**
+I started to setup a ReactNative project that we have been working on for a while now on my machine. The generated iOS native code was version controlled but the build was still not functioning on my machine. Followed the setup instructions and I got the following
+
+> Can't build on iOS - "Podfile.
+
+**Main Topics:**
+Focused article with specific actionable advice
+
+---
+
+### [75] Obvious business opportunities in healthcare in India
+
+**Metadata:**
+- Date: 2018-08-07
+- Author: Vishesh Duggar
+- Tags: healthtech, india, healthcare opportunities
+- Reading Time: 5 min
+- Word Count: 808
+- Excerpt: India has it’s share of problems in healthcare, with a large customer base looking for solutions; these are also lucrative business opportunities.
+
+**Key Content:**
+[Image]
+
+India has it’s share of problems in healthcare, with a large customer base looking for solutions; these are also lucrative business opportunities. Digital Health Record
+Close to 70% healthcare expense in India is paid out of pocket (https://www. in/sites/default/files/38300411751489562625.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [76] Here's how we hire "A" players
+
+**Metadata:**
+- Date: 2017-03-08
+- Author: Vishesh Duggar
+- Tags: None
+- Reading Time: 2 min
+- Word Count: 267
+- Excerpt: Exceeding expectations and attention to detail are a huge part of our culture. We look for candidates who've done  the same in the past positions, resume and during the interview.
+
+**Key Content:**
+[Image]
+
+Exceeding expectations and attention to detail
+Exceeding expectations and attention to detail are a huge part of our culture. We look for candidates who've done the
+same in the past positions, resume and during the interview. Have they taught themselves things.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [77] 9 Important lessons from the Lean Startup Week 2016 San Francisco
+
+**Metadata:**
+- Date: 2016-11-16
+- Author: Vishesh Duggar
+- Tags: None
+- Reading Time: 5 min
+- Word Count: 965
+- Excerpt: I was at the lean Startup week 2016 in San Francisco couple of weeks ago.  It is a great conference to meet entrepreneurs and innovation teams at other enterprises.  Here are some of the key lessons I learned at the conference.
+
+**Key Content:**
+9 important lessons from the Lean Startup Week 2016 San Francisco
+
+I was at the lean Startup week 2016 in San Francisco couple of weeks ago. It is a great conference to meet entrepreneurs and innovation teams at other enterprises. Here are some of the key lessons I learned at the conference.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [78] Lessons from the Yahoo data breach for startups
+
+**Metadata:**
+- Date: 2016-09-24
+- Author: Vishesh Duggar
+- Tags: entrepreneurship, yahoo, data-breach, security
+- Reading Time: 3 min
+- Word Count: 411
+- Excerpt: Data breaches are real, they have happened to companies with  dedicated security experts trying to  prevent it from happening. Sometime in the future, this could very well happen to you as a startup.
+
+**Key Content:**
+[Image]
+
+Data breaches are real, they have happened to companies with dedicated security experts trying to
+prevent it from happening. Sometime in the future, this could very well happen to you as a startup. Some of the lessons from the latest data breach at Yahoo.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [79] Wishful thinking - a programming skill that every entrepreneur should learn
+
+**Metadata:**
+- Date: 2016-07-26
+- Author: Vishesh Duggar
+- Tags: entrepreneurship, brain tricks, wishful thinking
+- Reading Time: 2 min
+- Word Count: 372
+- Excerpt: Wishful thinking in the programming practice where a program extracts all complexities.  Using this one will have a much easier time solving the sub-problems.
+
+**Key Content:**
+[Image]
+
+Wishful thinking is a programming practice where a programmer abstracts out all complexities. As an entrepreneur when you are taking that leap towards a goal or strategy, a lot of times one has the urge to have
+as much implementation detail of each piece to feel comfortable sometimes that urge itself becomes a big barrier to start. Here is a simplified example of how a programmer might abstract some of the things if we were building the
+published post featured on LinkedIn.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [80] 3 Common Misconceptions About Hybrid Apps
+
+**Metadata:**
+- Date: 2016-07-02
+- Author: Vishesh Duggar
+- Tags: None
+- Reading Time: 3 min
+- Word Count: 526
+- Excerpt: It is a great time to be developing using hybrid app technology especially now. Launch faster, run leaner, grow your  development team faster pick hybrid!
+
+**Key Content:**
+[Image]
+
+Hybrid apps interact with your mobile operating systems indirectly. Read more about, what is a hybrid app. (https://vishesh. space/what-is-a-hybrid-app/)
+
+Many people just assume native apps are better because of the terminology used.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [81] What is a hybrid app?
+
+**Metadata:**
+- Date: 2016-07-01
+- Author: Vishesh Duggar
+- Tags: hybrid app, native app, cordova, phonegap, mobile development
+- Reading Time: 1 min
+- Word Count: 141
+- Excerpt: Hybrid apps interact with your mobile operating systems indirectly.
+
+**Key Content:**
+Every app has to interact with your device operating system to function. For example your app might need to get the current
+location of the user. This interaction can be done by either writing a program that operating system understands i.
+
+**Main Topics:**
+Focused article with specific actionable advice
+
+---
+
+### [82] Startup friendly analytics, finally! - Heap
+
+**Metadata:**
+- Date: 2016-05-20
+- Author: Vishesh Duggar
+- Tags: google analytics, heap analytics, analytics
+- Reading Time: 2 min
+- Word Count: 277
+- Excerpt: If you're a preliminary Google Analytics users you will love this. In fact, you might even question why is Google  Analytics still such a crap product.
+
+**Key Content:**
+[Image]
+
+If you're a preliminary Google Analytics users you will love this. In fact, you might even question why is Google
+Analytics still such a crap product. There are many alternatives out there with Mixpanel, Kissmetrics and Heap Analytics.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [83] Grails 3 - Making a bigger impact
+
+**Metadata:**
+- Date: 2016-05-18
+- Author: Vishesh Duggar
+- Tags: grails, grails3, oci, community, ideas
+- Reading Time: 2 min
+- Word Count: 365
+- Excerpt: We’ve been using Grails for over 6 years now. It is an amazing framework built on solid foundations and allows us to  build massive systems at a very fast pace.
+
+**Key Content:**
+[Image]
+
+We’ve been using Grails for over 6 years now. It is an amazing framework built on solid foundations and allows us to
+build massive systems at a very fast pace. I had the opportunity to speak with Jeff Brown the founder of Grails and Steve Bowman from OCI.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [84] How to attract top tech talent
+
+**Metadata:**
+- Date: 2016-05-18
+- Author: Vishesh Duggar
+- Tags: tech talent, developer, cto, causecode
+- Reading Time: 2 min
+- Word Count: 250
+- Excerpt: Awesome analytical skills and passion for solving complex problems are actually not that common in developers.  Instead of looking out for these people, focus on what they look for.
+
+**Key Content:**
+[Image]
+
+Awesome analytical skills and passion for solving complex problems are actually not that common in developers. Instead of looking out for these people, focus on what they look for. Why should they join.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [85] Are you wasting your coding chops? Spend coding time on real problems
+
+**Metadata:**
+- Date: 2016-04-12
+- Author: Vishesh Duggar
+- Tags: automate, grunt, developer, rockstar
+- Reading Time: 4 min
+- Word Count: 611
+- Excerpt: As a developer, I never want to spend time doing things that a script or a software can do for me. But if you suffer  from RSI the motivation to do this can be far greater.
+
+**Key Content:**
+[Image]
+
+With more and more of technology helping us finding and remembering things it is becoming increasingly difficult to rely
+on people to remember things to do. Not that we didn't have this problem before. We've defined various workflows, processes
+and standards for doing things precisely so we don't have to re-discover a problem.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [86] Two finger -- Middle finger
+
+**Metadata:**
+- Date: 2016-04-05
+- Author: Vishesh Duggar
+- Tags: rsi, vim, mouse, ide
+- Reading Time: 2 min
+- Word Count: 368
+- Excerpt: Two finger is not ergonomic, specially if you use your middle and ring finger.
+
+**Key Content:**
+[Image]
+
+Back in 2007, I was so mesmerised by the two finger scroll that extensively started using it. It was revolutionary in
+way, to not find the scroll bar not search for the arrow keys. Just scroll when you need to; using any of your two damn
+fingers.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [87] Node live - Bengaluru
+
+**Metadata:**
+- Date: 2016-03-19
+- Author: Vishesh Duggar
+- Tags: npm, node, wipro, cto
+- Reading Time: 2 min
+- Word Count: 308
+- Excerpt: The node event at Wipro Bengaluru sucked, is an understatement.  With presenters not showing on time; to some not  showing up at all.
+
+**Key Content:**
+[Image]
+
+The node event at Wipro Bengaluru sucked, is an understatement. With presenters not showing on time; to some not
+showing up at all. It was frustrating to travel to a node/npm branded event only to find out they were hardly involved.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [88] How to show progress without a CTO or a Product as a startup?
+
+**Metadata:**
+- Date: 2016-02-23
+- Author: Vishesh Duggar
+- Tags: traction, progress, startup, cto, chief technology officer
+- Reading Time: 3 min
+- Word Count: 566
+- Excerpt: Demonstrating progress is vital for a startup, for a host of reasons. The more traction you get, the easier things become!
+
+**Key Content:**
+[Image]
+
+Demonstrating progress is vital for a startup, for a host of reasons. The more traction you get, the easier things become. As with anything the first step is always the hardest. Recruiting other team members and investors becomes much easier if you can show
+them:
+
+1.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [89] How to Find The Right CTO co-founder
+
+**Metadata:**
+- Date: 2016-02-08
+- Author: Vishesh Duggar
+- Tags: cto, find a cto, chief technology officer
+- Reading Time: 3 min
+- Word Count: 532
+- Excerpt: You have this amazing idea and perhaps even are the subject matter expert. But you need a tech co-founder.
+
+**Key Content:**
+[Image]
+
+You have this amazing idea and perhaps even are the subject matter expert. But you need a tech co-founder. Finding a tech co-founder is hard but has never been easier. You think there were too many dating sites, founder dating sites are not that far behind.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [90] boot2docker - Docker Toolbox Mac OS X
+
+**Metadata:**
+- Date: 2016-01-19
+- Author: Vishesh Duggar
+- Tags: docker, boot2docker, vagrant, macosx
+- Reading Time: 2 min
+- Word Count: 273
+- Excerpt: Trying to setup Docker with Vagrant on Mac OS using Docker Toolbox
+
+**Key Content:**
+[Image]
+<figcaption><a href="https://www. com/photos/xmodulo/" title="Picture by Linux Screenshots on Flickr">Picture by Linux Screenshots on Flickr</a>. </figcaption>
+
+I am trying to setup Docker with Vagrant on Mac OS using Docker Toolbox.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [91] How to stop multi-tasking and become more productive
+
+**Metadata:**
+- Date: 2015-09-06
+- Author: Vishesh Duggar
+- Tags: productivity, time management, kanban
+- Reading Time: 5 min
+- Word Count: 923
+- Excerpt: As a CEO of a startup, you’ll likely also serve as marketing director and fundraising lead, then moonlight as a janitor.
+
+**Key Content:**
+As a CEO of a startup, you’ll likely also serve as marketing director and fundraising lead, then moonlight as janitor. Awareness of the backlog and the sheer number of things to do can be overwhelming, and juggling too many things in the pursuit of achieving the most for your team has backfired for many founders. Research has shown (http://www.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [92] UX - Don't send a bill on a birthday!
+
+**Metadata:**
+- Date: 2015-07-07
+- Author: Vishesh Duggar
+- Tags: ux, amaze users, birthday
+- Reading Time: 3 min
+- Word Count: 506
+- Excerpt: User experience does not end with your web or mobile application.
+
+**Key Content:**
+[Image]
+<figcaption><a href="https://www. com/photos/kozumel" title="Picture by Camilo Rueda López on Flickr">Picture by Camilo Rueda López
+on Flickr</a>. </figcaption>
+
+Earlier this year on my birthday morning as usual I was checking my email to confirm if there are no pressing issues
+that need to be addressed before I start my day.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [93] Want to become a rockstar coder?
+
+**Metadata:**
+- Date: 2015-06-15
+- Author: Vishesh Duggar
+- Tags: passion, coding, rockstar
+- Reading Time: 3 min
+- Word Count: 411
+- Excerpt: Passion to code and hunger to learn will get you there! Here are a few more tips to move you along.
+
+**Key Content:**
+Coders have this power to work on complex problems, simplify things and in many cases, cut out the mundane. A rockstar coder is a programmer who is very aware of his/her abilities to do this and uses it to constantly achieve the same. I have worked with a lot of developers in the past and there are a few common traits I come across in most rockstar coders.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [94] Why Spring Security ACLs?
+
+**Metadata:**
+- Date: 2015-04-16
+- Author: Vishesh Duggar
+- Tags: spring security acls, grails, plugins
+- Reading Time: 2 min
+- Word Count: 277
+- Excerpt: [Spring Security ACL](http://grails.org/plugin/spring-security-acl) makes it much easier to implement object level permissions and maintaining access control lists in your Grails app.
+
+**Key Content:**
+I had recently written about the benefits of using spring-security-core (https://vishesh. space/benefits-of-spring-security-with-grails/)
+the other plugins that extend its capability are what make it truly valuable. One such use case is managing user permissions.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [95] Benefits Of Using Spring Security With Grails
+
+**Metadata:**
+- Date: 2015-04-15
+- Author: Vishesh Duggar
+- Tags: spring security, grails, plugins
+- Reading Time: 3 min
+- Word Count: 595
+- Excerpt: There are some obvious benefits to writing custom code vs using a plugin. When using a plugin you get a lot of things off the shelf rather than writing it your self. But using something as mature as Spring Security has its unique advantages.
+
+**Key Content:**
+There are some obvious benefits to writing custom code vs using a plugin. When using a plugin you get a lot of things
+off the shelf rather than writing it your self. But there is always that risk of adding more bloat to your code base than
+is needed, debugging and finally bug fixes.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [96] 5 things to remember while picking a technology stack as a startup
+
+**Metadata:**
+- Date: 2015-04-01
+- Author: Vishesh Duggar
+- Tags: cto, stack, hiring
+- Reading Time: 5 min
+- Word Count: 820
+- Excerpt: Picking the right technology stack can make or break your startup endeavor. Apart from this impacting your  development milestones, it could very well make a difference in hiring and scaling up.
+
+**Key Content:**
+It is a daunting task to start to build a software product that is going to be the next big thing. One of the challenges
+that you might face very early on is to pick a technology stack before you begin. A lot of times it boils down to the tech
+founder(s) expertise with a particular stack.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [97] Vim as an IDE
+
+**Metadata:**
+- Date: 2015-03-23
+- Author: Vishesh Duggar
+- Tags: vim, grails, groovy, ide
+- Reading Time: 3 min
+- Word Count: 467
+- Excerpt: Vim as an IDE with Groovy & Grails
+
+**Key Content:**
+GGTS or STS or Eclipse or any other IDE for that matter is too bulky and slows your machine. But more importantly if you
+are someone like me who would rather use a keyboard than a mouse then using vim instead of an IDE is going to be even
+more fun. The speed with which I can manipulate files, check for syntax, format code and use information from git version
+history is pretty slick.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
+### [98] Is maintaining a blog, a challenge?
+
+**Metadata:**
+- Date: 2015-03-11
+- Author: Vishesh Duggar
+- Tags: why
+- Reading Time: 3 min
+- Word Count: 481
+- Excerpt: It is challenging for sure.
+
+**Key Content:**
+It is challenging for sure. Okay, so I've been procrastinating about creating a blog for almost 3 years now. I think I do have free time but the energy level to put something up has been never as big as it is now.
+
+**Main Topics:**
+Comprehensive guide with multiple insights and practical examples
+
+---
+
